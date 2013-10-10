@@ -156,28 +156,35 @@ body {
 
 
 #main {
-  margin-top:3px;
-  width:100%;
   width : 750px;
-  min-height:500px;
-  float:center;
-  background : #ffffff;
-  padding-bottom:50px;
+}
+
+div#menu{
+	margin-top:5px;
+	margin-bottom:8px;
+}
+
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #1B6666;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2D9899;
+  text-decoration: none;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#section {
+	width: 100%;
+	min-height:500px;
+	background : #ffffff;
+	padding-bottom:50px;
+}
 
 /* ==========================================================================
    Helper classes
