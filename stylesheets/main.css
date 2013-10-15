@@ -135,10 +135,16 @@ body {
 
 #header {
 	position:relative;
-	width: 750px;
-	height:120px;
+//	width: 750px;
+	height:100px;
+	min-width : 750px;
+  	max-width : 1000px;
 	text-align: bottom;
 	background: #33CCCC;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-image: url('../images/header-bar.png');
+	background-repeat: no-repeat; 
 }
 
 #header-content {
@@ -146,6 +152,19 @@ body {
 	margin-bottom:20px;
 	margin-left:30px;
 	bottom:0px;
+	color:1B6666;
+}
+
+#header-bar{
+	
+	width:100%;
+	height:30px;
+	margin-left:20px;
+	padding-left:20px;
+}
+
+#header-text{
+	color:1B6666;
 }
 
 .center {
@@ -153,31 +172,44 @@ body {
 	margin-right:auto;
 }
 
-
-
 #main {
-  width : 750px;
+  padding-left:10px;
+  padding-right:10px;
+  min-width : 750px;
+  max-width : 1000px
 }
 
 div#menu{
 	margin-top:5px;
 	margin-bottom:8px;
+	overflow:auto;
 }
 
 .btn {
   font-family: Arial;
   color: #ffffff;
-  font-size: 15px;
-  background: #1B6666;
-  padding: 5px 20px 5px 20px;
+  background-color: #1B6666;
+  background-image: url('../images/button.png');
+  background-repeat: no-repeat;
+/*  font-size: 15px; */
+  padding: 5px 10px 5px 20px;
+  margin-right:10px; 
   text-decoration: none;
+  text-align:center;
+  width:150px;
+  float:left;
 }
 
 .btn:hover {
   background: #2D9899;
+  background-image: url('../images/button-middle.png');
   text-decoration: none;
+  background-repeat: no-repeat;
 }
 
+a {
+    display: block;
+}
 
 #section {
 	width: 100%;
