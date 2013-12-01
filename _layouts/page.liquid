@@ -13,28 +13,30 @@
     <title>Huisartsenpraktijk De Vaart - Groepspraktijk Mechelen Zuid</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="stylesheets/bootstrap.css" rel="stylesheet" media="screen">
+    
+    <!-- Own markup -->
     <link href="stylesheets/styles.css" rel="stylesheet" media="screen">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../javascript/html5shiv.js"></script>
-      <script src="../javascript/respond.min.js"></script>
-    <![endif]-->
+    
   </head>
 
   </head>
   <body>
 	<header>
 		<div class="row">
-		<h1>Huisartsenpraktijk De Vaart</h1>
+			<div class="col-md-offset-2 col-md-8">
+				<h1>Huisartsenpraktijk De Vaart</h1>
+			</div>
 		</div>
-		<div class="row">		
-				<div class="col-md-1"><a href="index.html" class="knop" id="home">Wie zijn wij?</a></div>
-				<div class="col-md-1"><a href="route.html" class="knop" id="appointement">Maak een afspraak</a></div>
-				<div class="col-md-1"><a href="route.html" class="knop" id="route">Contact</a></div>
-				<div class="col-md-1"><a href="praktisch.html" class="knop" id="practical">Praktische info</a></div>
-				<div class="col-md-1"><a href="praktisch.html" class="knop" id="practical">Test</a></div>
-		</div>
+		
+		
+				
+				<a href="index.html" class="knop" id="home">Wie zijn wij?</a>
+				<a href="route.html" class="knop" id="appointement">Maak een afspraak</a>
+				<a href="route.html" class="knop" id="route">Contact</a>
+				<a href="praktisch.html" class="knop" id="practical">Praktische info</a>
+				<a href="praktisch.html" class="knop" id="practical">Test</a>
+		
 	</header>
 	<section>
 			{{ content}}
@@ -42,7 +44,5 @@
 	<footer>
 	
 	</footer>
-	
-    
   </body>
 </html>
