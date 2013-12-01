@@ -72,5 +72,35 @@ body > div.content{
 }
 
 
+table td{
+vertical-align: top;
+padding-bottom: 20px;
+}
+
+table#map td{
+padding: 15px;
+}
+
+table#founders {
+text-align: center;
+margin-top: 80px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+table#founders td{
+width: 300px;
+padding-left:10px;
+padding-right:10px;
+padding-top:0px;
+}
+
+/* Footer ---------------------- */
+
+footer {
+	font-size: 50%;
+}
+
 
 
