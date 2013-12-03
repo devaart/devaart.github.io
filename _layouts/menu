@@ -1,0 +1,13 @@
+ <li id="menu_game">
+					<a href="index.html" class="knop" id="home">Wie zijn wij?</a>
+					</li>
+					<li id="menu_technology">
+						<a href="route.html" class="knop" id="appointement">Maak een afspraak</a>
+					</li>
+
+					<li id="menu_practical">
+						<a href="route.html" class="knop" id="route">Contact</a>
+					</li>
+					<li id="menu_about">
+						<a href="praktisch.html" class="knop" id="practical">Praktische info</a>
+					</li>
