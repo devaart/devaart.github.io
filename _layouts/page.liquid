@@ -32,67 +32,66 @@
 
   </head>
   <body>
-	<header>
-		<div class="row">
-			<div class="{{ foundation_columns }} headerbar">
-				<img src="/images/header-bar.png"/>
-				<h1>Huisartsenpraktijk De Vaart</h1>
+  	<div id="wrapper">
+		<header>
+			<div class="row">
+				<div class="{{ foundation_columns }} headerbar">
+					<img src="/images/header-bar.png"/>
+					<h1>Huisartsenpraktijk De Vaart</h1>
+				</div>
 			</div>
-		</div>
-	</header>
-	<section>
+		</header>
+		<section>
 	
-		<div class="show-for-medium-up row menu">
-        	<div class="xlarge-centered medium-centered small-centered {{ foundation_columns }} menubar">
-				<ul class="small-block-grid-4">
-					<li id="menu_game">
-						<a href="index.html" class="knop" id="home">Welkom</a>
-					</li>
-					<li id="menu_technology">
-						<a href="afspraak.html" class="knop" id="appointement">Maak een afspraak</a>
-					</li>
-					<li id="menu_artsen">
-						<a href="artsen.html" class="knop" id="artsen">Artsen</a>
-					</li>
-					<li id="menu_locatie">
-						<a href="locatie.html" class="knop" id="route">Locatie</a>
-					</li>
+			<div class="show-for-medium-up row menu">
+				<div class="xlarge-centered medium-centered small-centered {{ foundation_columns }} menubar">
+					<ul class="small-block-grid-4">
+						<li id="menu_home">
+							<a href="index.html" class="knop" id="home">Welkom</a>
+						</li>
+						<li id="menu_afspraak">
+							<a href="afspraak.html" class="knop" id="appointement">Maak een afspraak</a>
+						</li>
+						<li id="menu_artsen">
+							<a href="artsen.html" class="knop" id="artsen">Artsen</a>
+						</li>
+						<li id="menu_locatie">
+							<a href="locatie.html" class="knop" id="route">Locatie</a>
+						</li>
 					
+					</ul>
+				</div>
+			</div>
+		
+			<div class="hide-for-medium-up menu-small">
+				<ul>
+						<li id="menu_home">
+							<a href="index.html" class="knop" id="home">Welkom</a>
+						</li>
+						<li id="menu_afspraak">
+							<a href="afspraak.html" class="knop" id="appointement">Maak een afspraak</a>
+						</li>
+						<li id="menu_artsen">
+							<a href="artsen.html" class="knop" id="artsen">Artsen</a>
+						</li>
+						<li id="menu_locatie">
+							<a href="locatie.html" class="knop" id="route">Locatie</a>
+						</li>
 				</ul>
-        	</div>
-   		</div>
-   		
-   		<div class="hide-for-medium-up menu-small">
-            <ul>
-            	
-					<li id="menu_game">
-						<a href="index.html" class="knop" id="home">Welkom</a>
-					</li>
-					<li id="menu_technology">
-						<a href="route.html" class="knop" id="appointement">Maak een afspraak</a>
-					</li>
-
-					<li id="menu_practical">
-						<a href="route.html" class="knop" id="route">Contact</a>
-					</li>
-					<li id="menu_about">
-						<a href="praktisch.html" class="knop" id="practical">Praktische info</a>
-					</li>
-              
-            </ul>
-   		</div>
-   		<div class="row">
-   			<div class="{{ foundation_columns }} content">
-   				{{ content}}
-   			</div>
-   		</div>
-	</section>
-	<footer>
-		<div class="row">        
-        	<div class="{{foundation_columns}}">
-				Webmaster: Nelis Boucké, <a href="http://www.archiwise.com">ArchiWise</a>
-        	</div> 
-        </div>
-	</footer>
+			</div>
+			<div class="row contentcontainer">
+				<div class="{{ foundation_columns }} content">
+					{{ content}}
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="row">        
+				<div class="{{foundation_columns}}">
+					Webmaster: Nelis Boucké, <a href="http://www.archiwise.com">ArchiWise</a>
+				</div> 
+			</div>
+		</footer>
+	</div>
   </body>
 </html>
