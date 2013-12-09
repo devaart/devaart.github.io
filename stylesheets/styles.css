@@ -63,6 +63,7 @@ div.content{
 img.mugshot {
 	width:100%;
 	max-width:260px;
+	height:3em;
 }
 
 img.centered {
