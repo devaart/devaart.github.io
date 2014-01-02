@@ -2,17 +2,20 @@
         layout: page
 ---
 
-Dr. Sofie Van Tongelen en Dr. Sofie Decamps heten U binnenkort welkom in huisartsenpraktijk De Vaart.
+Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="afspraak">afspraak maken</a>. 
 
 h1. Opening 3 februari 2014.
 
-<br>
-Praktijkadres: 
+Praktijk adres:
 
-bq. Stuivenbergvaart 52, 
-2800 Mechelen 
+bq. Huisartsenpraktijk De Vaart
+Stuivenbergvaart 52
+2800 Mechelen
+Tel: 015/48.03.03
 
-Binnenkort vindt U op deze website meer informatie.
+
+
+
 
 
 

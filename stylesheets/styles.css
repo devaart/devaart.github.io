@@ -27,10 +27,6 @@ div.menubar{
 	padding:0;
 }
 
-a {
-    display: block;
-}
-
 .menu-small ul {
 	list-style-type: none;
 	padding:0;
@@ -44,6 +40,7 @@ a {
 }
 
 a.knop {
+  display: block;
   color: #ffffff;
   background-color: #1B6666;
 /*  background-image: url('../images/button.png');*/
@@ -73,6 +70,10 @@ img.centered {
 
 div.map {
 	text-align: center;
+}
+
+ul.dr-roles{
+	font-size: 80%;
 }
 
 /* Making the content 100% */
