@@ -16,7 +16,7 @@
 	<!-- own markup -->
 	<link rel="stylesheet" href="stylesheets/styles.css" />
 			  
-	<script src="js/modernizr.js"></script> 
+	<script src="javascripts/modernizr.js"></script> 
     
     <meta name="keywords" content="huisarts mechelen, huisartspraktijk mechelen, 
     	huisarts mechelen zuid, huisartspraktijk mechelen zuid, dokter mechelen, 
@@ -45,18 +45,25 @@
 	
 			<div class="show-for-medium-up row menu">
 				<div class="xlarge-centered medium-centered small-centered {{ foundation_columns }} menubar">
-					<ul class="small-block-grid-4">
+					<ul class="small-block-grid-5">
 						<li id="menu_home">
-							<a href="index.html" class="knop" id="home">Welkom</a>
+							<a href="index.html" class="button knop" id="home">Welkom</a>
 						</li>
 						<li id="menu_afspraak">
-							<a href="afspraak.html" class="knop" id="appointement">Maak een afspraak</a>
+							<a href="afspraak.html" class="button knop" id="appointement">Maak afspraak</a>
 						</li>
 						<li id="menu_artsen">
-							<a href="artsen.html" class="knop" id="artsen">Artsen</a>
+							<a href="artsen.html" class="button knop" id="artsen">Artsen</a>
+						</li>
+						<li id="menu_praktijk">							
+							<a href="#" data-dropdown="drop" class="button dropdown knop">Praktijk</a>
+								<ul id="drop" data-dropdown-content class="f-dropdown">
+								  <li><a href="praktijk.html" id="praktijk">Praktijk visie</a></li>
+								  <li><a href="terecht.html" id="terecht">Je kan bij ons terecht...</a></li>
+								</ul>
 						</li>
 						<li id="menu_locatie">
-							<a href="locatie.html" class="knop" id="route">Locatie</a>
+							<a href="locatie.html" class="button knop" id="route">Locatie</a>
 						</li>
 					
 					</ul>
@@ -93,8 +100,18 @@
 			</div>
 		</footer>
 	</div>
+	
+	
   </body>
   
+  <script src="javascripts/jquery.js"></script>
+  <script src="javascripts/fastclick.js"></script>
+  
+  <script src="javascripts/foundation.min.js"></script>
+
+  <script>
+	  $(document).foundation();
+  </script>  
   <script type="text/javascript">
 
   var _gaq = _gaq || [];
