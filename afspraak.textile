@@ -1,5 +1,9 @@
 ---
         layout: page
+        title: Maak een afspraak
 ---
 
-h2. Binnenkort kan U hier een afspraak maken.
+h2. Maak hieronder een afpraak
+
+
+<iframe src="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" seamless scrolling="auto" frameborder="0" id="introlution"></iframe>
