@@ -1,5 +1,6 @@
 ---
         layout: page
+        title: Maak een afspraak
 ---
 
 h2. Maak hieronder een afpraak
