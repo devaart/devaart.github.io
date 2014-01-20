@@ -1,22 +1,16 @@
-{% assign foundation_columns = 'xxlarge-offset-3 xxlarge-6 large-offset-2 large-8 medium-offset-1 medium-10 small-12 columns' %}
+{% assign grid_columns = 'col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-12' %}
 
 
 <!DOCTYPE html>
-<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
-<html class="no-js" lang="en">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   
-
-	<!-- foundation versie 5 -->
-	<link rel="stylesheet" href="stylesheets/normalize.css" /> 
-	<link rel="stylesheet" href="stylesheets/foundation.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="stylesheets/bootstrap.css" rel="stylesheet">
    
 	<!-- own markup -->
 	<link rel="stylesheet" href="stylesheets/styles.css" />
-			  
-	<script src="javascripts/modernizr.js"></script> 
     
 	{% if page.categories %}
 		<meta name="keywords" content="{{page.categories | join: ','}}" />
@@ -32,25 +26,32 @@
     <title>
 		{{site.main_title}} - {{page.title}}
 	</title>
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
   </head>
 
   </head>
   <body>
-  	<div id="wrapper">
+  	<div id="wrapper" >
 		<header>
 			<div class="row">
-				<div class="{{ foundation_columns }} headerbar">
-					<img src="/images/header-bar.png"/>
+				<div class="{{ grid_columns }} headerbar">
+					<img src="/images/header-bar.png" class="img-responsive"/>
 					<h1>Huisartsenpraktijk De Vaart</h1>
 				</div>
 			</div>
 		</header>
 		<section>
 			<nav>
-			<div class="show-for-medium-up row menu">
-				<div class="xlarge-centered medium-centered small-centered {{ foundation_columns }} menubar">
+			<div class="menu">
+				<div class="{{ grid_columns }} menubar">
 					
-					<ul class="small-block-grid-6">
+					<ul class="nav nav-pills nav-justified">
 						<li id="menu_home">
 							<a href="index.html" class="button knop" id="home">Welkom</a>
 						</li>
@@ -58,7 +59,7 @@
 							<a href="afspraak.html" class="button knop" id="appointement">Afspraak</a>
 						</li>
 						<li id="menu_praktijk">							
-							<a href="#" data-dropdown="drop-praktijk" data-options="is_hover:true" class="button dropdown knop">Praktijk</a>
+							<a href="#" class="dropdown-toggle knop">Praktijk</a>
 								<ul id="drop-praktijk" data-dropdown-content class="f-dropdown">
 								  <li><a href="praktijk.html" id="praktijk">Praktijkvisie</a></li>
 								  <li><a href="terecht.html" id="terecht">Je kan bij ons terecht voor...</a></li>
@@ -88,44 +89,6 @@
 					</ul>
 				</div>
 			</div>
-		
-			<div class="hide-for-medium-up menu-small">
-				<ul>
-						<li id="menu_home">
-							<a href="index.html" class="button knop" id="home">Welkom</a>
-						</li>
-						<li id="menu_afspraak">
-							<a href="afspraak.html" class="button knop" id="appointement">Afspraak</a>
-						</li>
-						<li id="menu_praktijk">							
-							<a href="#" data-dropdown="drop-praktijk" data-options="is_hover:true" class="button dropdown knop">Praktijk</a>
-								<ul id="drop-praktijk" data-dropdown-content class="f-dropdown">
-								  <li><a href="praktijk.html" id="praktijk">Praktijkvisie</a></li>
-								  <li><a href="terecht.html" id="terecht">Je kan bij ons terecht voor...</a></li>
-								</ul>
-						</li>
-						<li id="menu_artsen">
-							<a href="artsen.html" class="button knop" id="artsen">Artsen</a>
-						</li>
-						<li id="menu_praktisch">							
-							<a href="praktischeinfo.html" data-dropdown="drop-praktisch" data-options="is_hover:true" class="button dropdown">Informatie</a>
-								<ul id="drop-praktisch" data-dropdown-content class="f-dropdown">
-					<!--			  <li><a href="praktisch.html" id="praktisch">Praktische info</a></li> -->
-								  <li><a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a></li>
-								  <li><a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a></li>
-								  <li><a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a></li>
-								  <li><a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a></li>
-								  <li><a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a></li>
-								  <li><a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a></li>
-								  <li><a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a></li>				  										  								  								  
-								  <li><a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a></li>
-								</ul>
-						</li>
-						<li id="menu_locatie">
-							<a href="locatie.html" class="button knop" id="route">Locatie</a>
-						</li>
-				</ul>
-			</div>
 			</nav>
 			<div class="row contentcontainer">
 				<div class="{{ foundation_columns }} content">
@@ -142,21 +105,11 @@
 		</footer>
 	</div>
 	
-  
-  </body>
-  
-    
-  
-  <script src="javascripts/jquery.js"></script>
-  <script src="javascripts/fastclick.js"></script>
-  
-  <script src="javascripts/foundation.min.js"></script>
-
-  <script>
-	  $(document).foundation();
-  </script>
-  
-  <script type="text/javascript">
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="javascript/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="javascript/bootstrap.min.js"></script>
+  	 <script type="text/javascript">
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-46506307-1']);
@@ -169,4 +122,6 @@
 	  })();
 
 	</script>
+  </body>
+ 
 </html>
