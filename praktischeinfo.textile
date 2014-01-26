@@ -1,6 +1,6 @@
 ---
         layout: page
-        title: Praktische info
+        title: Praktische informatie
 ---
 
 h3. <a name="raadplegingen">Raadplegingen</a>
@@ -9,9 +9,9 @@ Wij werken enkel op afspraak. Op die manier proberen we wachttijden minimaal te 
 
 Maak bij voorkeur een afspraak via de <a href="afspraak.html">website </a>. U kan ook telefonisch een afspraak maken op het telefoonnummer <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>.
 
-Gelieve tijdig aanwezig te zijn op de gemaakte afspraak. Wij proberen ons ook aan de geplande tijdstippen te houden. Urgenties zijn echter niet te voorzien. Wij willen ons daarom al verontschuldigen moest u toch moeten wachten door een dringende oproep.
+Gelieve tijdig aanwezig te zijn op de gemaakte afspraak. Wij proberen ons ook aan de geplande tijdstippen te houden. Urgenties zijn echter niet te voorzien. Wij willen ons daarom op voorhand verontschuldigen mocht u toch moeten wachten door een dringende oproep.
 
-Kan u niet (tijdig) aanwezig zijn, gelieve uw afspraak dan (telefonisch) te annuleren, zo geeft u iemand anders de kans om op dat moment te consulteren. We voorzien één afspraak per persoon. Als u extra tijd nodig denkt te hebben, bijvoorbeeld voor een ingreep of voor een gesprek, gelieve dit dan te vermelden zodat we meer tijd kunnen voorzien. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
+Kan u niet (tijdig) aanwezig zijn, gelieve uw afspraak dan (telefonisch) te annuleren, zo geeft u iemand anders de kans om uw plaats in te nemen. We voorzien één afspraak per persoon. Als u extra tijd nodig denkt te hebben, bijvoorbeeld voor een ingreep of voor een gesprek, gelieve dit dan te vermelden zodat we meer tijd kunnen voorzien. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
 
 Als alle afspraakmomenten volzet zijn en u toch graag dezelfde dag nog op consultatie komt, gelieve dan telefonisch contact op te nemen.
 
@@ -25,18 +25,18 @@ Aangezien er in de praktijkruimte betere onderzoeks- en behandelingsmogelijkhede
 
 h3. <a name="spoedgevallen">Spoedgevallen</a>
 
-Wanneer dringende hulp nodig is, mag u uiteraard altijd bellen! 
-Telefoneer als het kan liefst zelf, dan kan u reeds met de dokter overleggen. 
+Wanneer dringende hulp nodig is, mag u uiteraard altijd bellen.
+Telefoneer als het kan liefst zelf, dan kan u al met de dokter overleggen. 
 Bij levensbedreigende situaties waarbij u niet onmiddellijk de praktijk kan bereiken, belt u het noodnummer 112. 
 
 h3. <a name="resultaten">Resultaten en vragen</a>
 
-Voor resultaten en medische vragen voorzien wij dagelijks een beluurtje tussen 12u en 13u. Gelieve hier zoveel mogelijk rekening mee te houden. Telefoons tijdens de raadpleging zijn storend voor zowel artsen als patiënten.
+Voor resultaten en kleine medische vragen voorzien wij dagelijks een beluurtje tussen 12u en 13u. Gelieve hier zoveel mogelijk rekening mee te houden. Telefonische oproepen tijdens de raadpleging zijn storend voor zowel artsen als patiënten.
 
 h3. <a name="voorschriften">Attesten en voorschriften</a>
 
-Het invullen van attesten en formulieren en het maken van voorschriften kan uitsluitend tijdens de raadpleging, zoals ook door het RIZIV wordt aanbevolen. Je dient hiervoor dus een afspraak te maken. In het kabinet beschikken we over de nodige informatie en tijd om dit correct uit te voeren. Gelieve vooraf thuis te controleren welke en hoeveel medicatie u nodig hebt zodat we voldoende voorschriften kunnen maken.
-We begrijpen dat je soms onverwachts een voorschrift nodig hebt. In uitzonderlijke gevallen kan een voorschrift dan ook worden afgeleverd zonder raadpleging. 
+Het invullen van attesten en formulieren en het maken van voorschriften kan uitsluitend tijdens de raadpleging, zoals ook door het RIZIV wordt aanbevolen. U dient hiervoor dus een afspraak te maken. In het kabinet beschikken we over de nodige informatie en tijd om dit correct uit te voeren. Gelieve vooraf thuis te controleren welke en hoeveel medicatie u nodig hebt zodat we voldoende voorschriften kunnen maken.
+We begrijpen dat u soms onverwachts een voorschrift nodig heeft. In uitzonderlijke gevallen kan een voorschrift dan ook worden afgeleverd zonder raadpleging. 
 Attesten voor afwezigheden om gezondheidsredenen maken altijd deel uit van een consultatie.
 
 h3. <a name="gmd"> Globaal medisch dossier</a>
@@ -50,8 +50,7 @@ h3. <a name="wacht">Wachtdiensten</a>
 
 Voor dringende medische problemen na 19u en tijdens het weekend kan u de dokter van wacht bellen op het nummer 070/25.40.40. Probeer echter altijd eerst de praktijk te bereiken. 
 
-Apotheek: 
-0900/10.500 of www.apotheek.be
+Apotheek: 0900/10.500 of www.apotheek.be
 
 Tandarts:
 Op zaterdag, zondag en feestdagen tussen 9u en 18u: 0903/999 15
