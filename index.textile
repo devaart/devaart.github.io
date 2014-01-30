@@ -3,7 +3,7 @@
         title: Groepspraktijk Mechelen Zuid - Dr. Sofie Decamps en Dr. Sofie Van Tongelen
 ---
 
-Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="afspraak">afspraak maken</a>. 
+Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="afspraak.html">afspraak maken</a>. 
 
 h1. Opening 3 februari 2014.
 

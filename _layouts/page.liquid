@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="stylesheets/bootstrap.css" rel="stylesheet">
-   
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- own markup -->
 	<link rel="stylesheet" href="stylesheets/styles.css" />
     
@@ -47,31 +47,22 @@
 			</div>
 		</header>
 		<section>
-			<nav>
-			<div class="menu">
-				<div class="{{ grid_columns }} menubar">
-					
-					<ul class="nav nav-pills nav-justified">
-						<li id="menu_home">
-							<a href="index.html" class="button knop" id="home">Welkom</a>
-						</li>
-						<li id="menu_afspraak">
-							<a href="afspraak.html" class="button knop" id="appointement">Afspraak</a>
-						</li>
-						<li id="menu_praktijk">							
-							<a href="praktijk.html" data-dropdown="drop-praktijk" data-options="is_hover:true" class="button dropdown knop">Praktijk</a>
-
-								<ul id="drop-praktijk" data-dropdown-content class="f-dropdown">
-								  <li><a href="praktijk.html" id="praktijk">Praktijkvisie</a></li>
-								  <li><a href="terecht.html" id="terecht">Je kan bij ons terecht voor...</a></li>
+			<nav class="row">
+			<div class="{{ grid_columns }} menubar">
+					<div class="btn-group btn-group-lg btn-group-justified">
+						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
+						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
+						<div class="btn-group btn-group-lg">
+							<a href="praktijk.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktijk">Praktijk<span class="caret"></span></a>
+								<ul class="dropdown-menu">
+								  <li><a href="praktijk.html">Praktijkvisie</a></li>
+								  <li><a href="terecht.html">Je kan bij ons terecht voor...</a></li>
 								</ul>
-						</li>
-						<li id="menu_artsen">
-							<a href="artsen.html" class="button knop" id="artsen">Artsen</a>
-						</li>
-						<li id="menu_praktisch">							
-							<a href="praktischeinfo.html" data-dropdown="drop-praktisch" data-options="is_hover:true" class="button dropdown">Informatie</a>
-								<ul id="drop-praktisch" data-dropdown-content class="f-dropdown">
+						</div>
+						<a href="artsen.html" type="button" class="btn btn-default" id="menu_artsen">Artsen</a>
+						<div class="btn-group btn-group-lg">
+							<a href="praktischeinfo.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktisch">Praktische info<span class="caret"></span></a>
+								<ul class="dropdown-menu">
 					<!--			  <li><a href="praktisch.html" id="praktisch">Praktische info</a></li> -->
 								  <li><a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a></li>
 								  <li><a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a></li>
@@ -82,25 +73,20 @@
 								  <li><a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a></li>				  										  								  								  
 								  <li><a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a></li>
 								</ul>
-						</li>
-						<li id="menu_locatie">
-							<a href="locatie.html" class="button knop" id="route">Locatie</a>
-						</li>
-					
-					</ul>
+						</div>
+						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
+					</div>
 				</div>
-			</div>
-
 			</nav>
 			<div class="row contentcontainer">
-				<div class="{{ foundation_columns }} content">
+				<div class="{{ grid_columns }} content">
 					{{ content}}
 				</div>
 			</div>
 		</section>
 		<footer>
 			<div class="row">        
-				<div class="{{foundation_columns}}">
+				<div class="{{grid_columns}}">
 					Webmaster: Nelis Boucké, <a href="http://www.archiwise.com">ArchiWise</a>
 				</div> 
 			</div>
@@ -108,9 +94,10 @@
 	</div>
 	
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="javascript/jquery.js"></script>
+    <script src="javascripts/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="javascript/bootstrap.min.js"></script>
+    <script src="javascripts/bootstrap.min.js"></script>
+  	<script src="javascripts/response.js"></script>
   	 <script type="text/javascript">
 
 	  var _gaq = _gaq || [];
