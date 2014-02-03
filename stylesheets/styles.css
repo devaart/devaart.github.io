@@ -28,17 +28,18 @@ div.menubar{
 	padding:0;
 }
 
-a.btn {
-  padding:0.2em;
-  margin:0;
-  display: block;
-  color: #ffffff;
-  background-color: #1B6666;
-  text-align:center;
-  width:100%;
-  height:100%;
+.btn-group-lg > a.btn:hover, .btn-group-lg > a.btn:active, .btn-group-lg > a.btn:focus {
+	color:#00000;
+	background-color: #008cba;
 }
 
+.btn-group-lg > a.btn {
+	padding:4px;
+	font-size: 16px;
+	border-radius: 0px;
+	color: #ffffff;
+  	background-color: #1B6666;	
+}
 
 /* Content ---------------------- */
 
@@ -59,7 +60,8 @@ img.centered {
     margin-right: auto;
 }
 
-iframe.map {
+.map {
+	margin-top:2em;
 	text-align: center;
 }
 
