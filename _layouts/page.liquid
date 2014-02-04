@@ -48,8 +48,8 @@
 		</header>
 		<section>
 			<nav class="row">
-			<div class="{{ grid_columns }} menubar">
-					<div class="btn-group btn-group-lg btn-group-justified">
+				<div class="{{ grid_columns }} menubar">
+					<div class="btn-group btn-group-lg btn-group-vertical">
 						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
 						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
 						<div class="btn-group btn-group-lg">
@@ -76,10 +76,29 @@
 						</div>
 						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
 					</div>
+				<!--	<div class="visible-xs menubar-xs">
+						
+						
+						
+						
+						<div class="btn-group">
+						  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+							<span class="glyphicon glyphicon-list menubutton"></span> 
+						  </button>
+						  <ul class="dropdown-menu" role="menu">
+							<li><a href="#">Action</a></li>
+							<li><a href="#">Another action</a></li>
+							<li><a href="#">Something else here</a></li>
+							<li class="divider"></li>
+							<li><a href="#">Separated link</a></li>
+						  </ul>
+						</div>
+					</div> -->
 				</div>
 			</nav>
 			<div class="row contentcontainer">
 				<div class="{{ grid_columns }} content">
+				
 					{{ content}}
 				</div>
 			</div>
