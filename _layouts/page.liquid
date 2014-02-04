@@ -49,7 +49,7 @@
 		<section>
 			<nav class="row">
 				<div class="{{ grid_columns }} menubar">
-					<div class="btn-group btn-group-lg btn-group-vertical">
+					<div class="btn-group btn-group-lg btn-group-justified hidden-xs">
 						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
 						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
 						<div class="btn-group btn-group-lg">
@@ -76,24 +76,34 @@
 						</div>
 						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
 					</div>
-				<!--	<div class="visible-xs menubar-xs">
-						
-						
-						
-						
-						<div class="btn-group">
-						  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-							<span class="glyphicon glyphicon-list menubutton"></span> 
-						  </button>
-						  <ul class="dropdown-menu" role="menu">
-							<li><a href="#">Action</a></li>
-							<li><a href="#">Another action</a></li>
-							<li><a href="#">Something else here</a></li>
-							<li class="divider"></li>
-							<li><a href="#">Separated link</a></li>
-						  </ul>
+					
+					<div class="btn-group btn-group-lg btn-group-vertical visible-xs">
+						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
+						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
+						<div class="btn-group btn-group-lg">
+							<a href="praktijk.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktijk">Praktijk <span class="caret"></span></a>
+								<ul class="dropdown-menu">
+								  <li><a href="praktijk.html">Praktijkvisie</a></li>
+								  <li><a href="terecht.html">Je kan bij ons terecht voor...</a></li>
+								</ul>
 						</div>
-					</div> -->
+						<a href="artsen.html" type="button" class="btn btn-default" id="menu_artsen">Artsen</a>
+						<div class="btn-group btn-group-lg">
+							<a href="praktischeinfo.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktisch">Praktische info <span class="caret"></span></a>
+								<ul class="dropdown-menu">
+					<!--			  <li><a href="praktisch.html" id="praktisch">Praktische info</a></li> -->
+								  <li><a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a></li>
+								  <li><a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a></li>
+								  <li><a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a></li>
+								  <li><a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a></li>
+								  <li><a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a></li>
+								  <li><a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a></li>
+								  <li><a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a></li>				  										  								  								  
+								  <li><a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a></li>
+								</ul>
+						</div>
+						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
+					</div>
 				</div>
 			</nav>
 			<div class="row contentcontainer">
