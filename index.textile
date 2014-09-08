@@ -5,9 +5,7 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="afspraak.html">afspraak maken</a>. 
 
-h1. Opening 3 februari 2014.
 
-Op 3 februari start Dr. Sofie Van Tongelen. Vanaf april zal Dr. Sofie Decamps de praktijk vervoegen. 
 
 Praktijkadres:
 
