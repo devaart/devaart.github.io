@@ -3,7 +3,7 @@
         title: Groepspraktijk Mechelen Zuid - Dr. Sofie Decamps en Dr. Sofie Van Tongelen
 ---
 
-Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="afspraak.html">afspraak maken</a>. 
+Welkom op de website van huisartsenpraktijk De Vaart. <!-- U vindt hier meer informatie over onze werking. --> U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
 Praktijkadres:
 
@@ -12,17 +12,9 @@ Stuivenbergvaart 52
 2800 Mechelen
 Tel: 015/48.03.03
 
+Email:
 
-h2. Griepvaccinatie seizoen 2014-2015
-
-Op onderstaande dagen kan u, zonder afspraak, langskomen voor uw griepvaccinatie. U dient het vaccin zelf mee te brengen van de apotheker. 
-
-- Woensdag 22 oktober van 14u30 tot 15u30.
-- Dinsdag 4 november van 19u30 tot 20u30
-
-Op deze momenten wordt er uitsluitend gevaccineerd. Er zijn geen consultaties mogelijk en er worden geen andere voorschriften afgeleverd. 
-
-
+bq. <a href="mailto:huisartsen.de.vaart@telenet.be">huisartsen.de.vaart@telenet.be</a>
 
 
 
