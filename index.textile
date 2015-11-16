@@ -5,18 +5,17 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-<!-- Praktijkadres:
+###. Praktijkadres:
 
-bq. Huisartsenpraktijk De Vaart
-Stuivenbergvaart 52
-2800 Mechelen
-Tel: 015/48.03.03
+###. bq. Huisartsenpraktijk De Vaart
+###. Stuivenbergvaart 52
+###. 2800 Mechelen
+###. Tel: 015/48.03.03
 
-Email:
+###. Email:
 
-bq. <a href="mailto:huisartsen.de.vaart@telenet.be">huisartsen.de.vaart@telenet.be</a>
+###. bq. <a href="mailto:huisartsen.de.vaart@telenet.be">huisartsen.de.vaart@telenet.be</a>
 
--->
 
 h3. Nieuwtjes
 
