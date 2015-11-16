@@ -16,7 +16,7 @@ Email:
 
 bq. <a href="mailto:huisartsen.de.vaart@telenet.be">huisartsen.de.vaart@telenet.be</a>
 
-h4. Nieuwtjes
+h3. Nieuwtjes
 
 h4. Zwangershapverlof
 
