@@ -6,10 +6,6 @@
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
 h3. Nieuwtjes
-
-h4. Zwangershapverlof
-
-Dr. Sofie Decamps zal op zwangerschapsverlof zijn van 15 januari tot eind april 2016. In die periode zal Dr. Eline Van Tilburgh de praktijk versterken. U kan bij haar ook online een afspraak maken.
  
 h4. Belangrijk: geïnformeerde toestemming
 
