@@ -5,11 +5,11 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-h3. Nieuwtjes
+### Nieuwtjes
 
 De praktijk zal uitzonderlijk gesloten zijn op vrijdagnamiddag 1 juli. Voor dringende vragen of problemen kan u op dat moment terecht bij onze collega's Dr. Seghers en Dr. Vandenberghe op het nummer 015/65.83.24
  
-h4. Belangrijk: geïnformeerde toestemming
+### Belangrijk: geïnformeerde toestemming
 
 Beste patiënten, in deze gedigitaliseerde tijden is het mogelijk voor ons als huisarts om efficiënter samen te werken met andere zorgverleners in de eerste lijn en met de ziekenhuizen. Dit kan alleen door uw geïnformeerde toestemming (informed consent) te geven om uw gezondheidsgegevens te delen.
 

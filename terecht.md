@@ -3,13 +3,14 @@
         title: Je kan bij ons terecht voor
 ---
 
-h2. Je kan bij ons terecht voor...
+### Je kan bij ons terecht voor...
 
 Als huisarts willen wij openstaan voor de gezondheidsproblemen van onze patiënten. 
 
 Als huisarts staan we ter beschikking voor zowel jong als oud,  voor zowel acute ziekten als chronische aandoeningen. Het voorkomen van gezondheidsproblemen is erg belangrijk en daarom besteden we ook aandacht aan preventie. 
 
 Naast consultaties voor gezondheidsproblemen kan u terecht voor een heel aantal andere zaken zoals: 
+
 * Bloedafname 
 * Gynaecologisch onderzoek en advies, starten met de pil en pilcontrole, maken van een uitstrijkje, preventief kankeronderzoek en vaccinatie 
 * Zwangerschapsbegeleiding
