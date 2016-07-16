@@ -5,9 +5,10 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Nieuwtjes
+### Haio: Dr. Marie Lambrecht 
 
-De praktijk zal uitzonderlijk gesloten zijn op vrijdagnamiddag 1 juli. Voor dringende vragen of problemen kan u op dat moment terecht bij onze collega's Dr. Seghers en Dr. Vandenberghe op het nummer 015/65.83.24
+Vanaf 1 september vervolledigt Dr. Lambrecht het eerste jaar van haar opleiding tot huisarts in onze praktijk. Zij studeerde geneeskunde aan de K.U.Leuven.
+<a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
  
 ### Belangrijk: geïnformeerde toestemming
 

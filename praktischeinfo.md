@@ -55,7 +55,14 @@ Apotheek: 0900/10.500 of www.apotheek.be
 Tandarts:
 Op zaterdag, zondag en feestdagen tussen 9u en 18u: 0903/999 15
 
-
 ### <a name="afgevaardigden">Medisch afgevaardigden</a>
 
 Medische vertegenwoordigers kunnen een afspraak maken via de online agenda. We voorzien enkele momenten waarop enkel vertegenwoordigers een afspraak kunnen boeken. 
+
+### <a name="opleidingspraktijk">Erkende Opleidingspraktijk</a>
+
+Vanaf 1 oktober 2015 zijn wij gestart met de opleiding van een huisarts-in-opleiding (HAIO). De haio is reeds afgestudeerd aan de universiteit en als arts gediplomeerd. Zij doorloopt verder de laatste twee jaar van haar specialisatie als huisarts. U kan dus ook bij haar op consultatie gaan en/of een huisbezoek aanvragen.
+
+Alles wat de haio doet, bespreekt zij dagelijks met de andere artsen uit de praktijk. Wekelijks is er gezamenlijk teamoverleg en daarna ook een bespreking van problemen en leermomenten met de praktijkopleider. 
+
+Aan de hand van uw dossier blijft uw huisarts goed op de hoogte van alles wat er voor uw gezondheid gebeurt. Als u dat wenst, kan u altijd bij uw eigen huisarts terecht. Voel u volkomen vrij om het te vragen.
