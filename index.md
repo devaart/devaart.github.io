@@ -5,7 +5,7 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Haio: Dr. Marie Lambrecht 
+### Haio: Dr. Marie Lambrecht
 
 Vanaf 1 september vervolledigt Dr. Lambrecht het eerste jaar van haar opleiding tot huisarts in onze praktijk. Zij studeerde geneeskunde aan de K.U.Leuven.
 <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
