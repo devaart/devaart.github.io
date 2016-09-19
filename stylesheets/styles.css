@@ -80,6 +80,8 @@ ul.dr-roles{
 	font-size: 80%;
 }
 
+.doeeensraar {unicode-bidi: bidi-override; direction: rtl;}
+
 /* Making the content 100% */
 
 html, body, #wrapper {
@@ -119,6 +121,8 @@ iframe#introlution {
 footer {
 	font-size: 50%;
 }
+
+
 
 
 
