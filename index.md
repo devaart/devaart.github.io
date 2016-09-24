@@ -5,6 +5,20 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+### Griepseizoen 2016-2017:
+
+Griep treft elke winter 1 op de 10 mensen. Meestal genees je vanzelf, maar bij sommige risicogroepen kan griep ernstige gevolgen hebben. Daarom wordt een griepvaccin aanbevolen voor iederen ouder dan 65 jaar, zwangeren, ouders van kindjes jonger dan 6 maanden en mensen met gezondheidsproblemen zoals diabetes of een ziekte van longen, hart, lever of nieren. Jaarlijkse griepvaccinatie biedt de beste kans om zonder griep de winter door te komen.
+
+Op onderstaande data kan u, zonder afspraak, terecht voor het zetten van uw griepvaccin.
+
+- dinsdag 18 oktober tussen 13u en 15u
+- vrijdag 4 november tussen 11u en 12u
+- woensdag 9 november tussen 19u30 en 20u30
+
+Tijdens deze momenten is er enkel tijd voor het zetten van uw griepvaccin. Indien u nog andere vragen hebt, vragen wij u vriendelijk een aparte consultatie te boeken op een ander tijdstip.
+
+
+
 ### Haio: Dr. Marie Lambrecht
 
 Vanaf 1 september vervolledigt Dr. Lambrecht het eerste jaar van haar opleiding tot huisarts in onze praktijk. Zij studeerde geneeskunde aan de K.U.Leuven.
