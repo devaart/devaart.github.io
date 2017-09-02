@@ -15,7 +15,11 @@ Kan u niet (tijdig) aanwezig zijn, gelieve uw afspraak dan (telefonisch) te annu
 
 Als alle afspraakmomenten volzet zijn en u toch graag dezelfde dag nog op consultatie komt, gelieve dan telefonisch contact op te nemen.
 
-Neem steeds uw identiteits-, SIS-kaart en een klevertje van de mutualiteit mee op consultatie.
+Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consultatie.
+
+### <a name="bancontact">Bancontact</a>
+
+In onze praktijk kan U met bancontact betalen. Om veiligheidsredenen geniet dit ook onze voorkeur. 
 
 ### <a name="huisbezoeken">Huisbezoeken</a>
 

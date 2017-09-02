@@ -1,3 +1,13 @@
+Installation:
+
+- bundler
+- ruby
+
+
+bundle install
+
+
+
 Notest to self
 =================
 
