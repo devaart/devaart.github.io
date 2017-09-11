@@ -32,7 +32,10 @@ U hoeft geen patiënt te zijn in onze praktijk om bij haar terecht te kunnen. Ge
 
 Griep treft elke winter 1 op de 10 mensen. Meestal genees je vanzelf, maar bij sommige risicogroepen kan griep ernstige gevolgen hebben. Daarom wordt een griepvaccin aanbevolen voor iederen ouder dan 65 jaar, zwangeren, ouders van kindjes jonger dan 6 maanden en mensen met gezondheidsproblemen zoals diabetes of een ziekte van longen, hart, lever of nieren. Jaarlijkse griepvaccinatie biedt de beste kans om zonder griep de winter door te komen.
 
-Concrete data voor het plaatsen van een griepvaccin volgens spoedig.
+Op onderstaande momenten kan u zonder afspraak terecht voor het plaatsen van een griepvaccin. Let op: U dient het vaccin zelf mee te brengen.
+- Woensdag 25/10/2017: van 15u tot 16u
+- Dinsdag 7/11/2017: van 19u tot 20u
+- Vrijdag 17/11/2017: van 11u tot 12u
 
 Tijdens deze momenten is er enkel tijd voor het zetten van uw griepvaccin. Indien u nog andere vragen hebt, vragen wij u vriendelijk een aparte consultatie te boeken op een ander tijdstip.
 
