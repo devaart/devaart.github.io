@@ -16,6 +16,8 @@ Onze haio, Dr. Marie Lambrecht blijft nog een jaar in onze praktijk. Zo zal zij 
 
 ### Raadplegingen
 
+Om de kwaliteit van zorgen voor onze patiënten te bewaren en voldoende beschikbaar te kunnen blijven, heeft onze praktijk vanaf 01/11/'17 een patiëntenstop ingevoerd. U kan zich om die reden ook niet meer online aanmelden als nieuwe patiënt in onze praktijk. U kan telefonisch met ons contact opnemen voor meer info, bij voorkeur elke werkdag tussen 8u30 en 12u.
+
 U kan een afspraak inplannen via de online agenda of telefonisch, bij voorkeur in de voormiddag, via het secretariaat. Indien er geen plaats meer vrij is in de online agenda maar U toch voor een dringend probleem nog dezelfde dag moet gezien worden, kan U uiteraard ook steeds telefonisch contact opnemen. 
 
 U kan ook 's avond terecht voor een afspraak. We zouden wel willen vragen om zoveel mogelijk overdag te komen indien U daartoe de mogelijkheid hebt. Of toch het vroegst mogelijke tijdstip te kiezen. Zo kunnen we iedereen de kans bieden om zo snel mogelijk gezien te worden.
