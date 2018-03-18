@@ -7,7 +7,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 ### Nieuws
 
-Vanaf 1 september 2017 ondersteunt Saartje Louckx onze praktijk als praktijkassistente. Saartje is eveneens vroedvrouw en lactatiedeskundige, meer info hierover vindt U verder op onze website. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden.  Verder zal zij ook instaan voor de administratieve ondersteuning van de praktijk.
+Vanaf 1 september 2017 ondersteunt Saartje Louckx onze praktijk als praktijkassistente. Saartje is eveneens vroedvrouw en lactatiedeskundige. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden.  Verder zal zij ook instaan voor de administratieve ondersteuning van de praktijk.
 
 Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat.
 Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
@@ -21,14 +21,6 @@ Om de kwaliteit van zorgen voor onze patiënten te bewaren en voldoende beschikb
 U kan een afspraak inplannen via de online agenda of telefonisch, bij voorkeur in de voormiddag, via het secretariaat. Indien er geen plaats meer vrij is in de online agenda maar U toch voor een dringend probleem nog dezelfde dag moet gezien worden, kan U uiteraard ook steeds telefonisch contact opnemen. 
 
 U kan ook 's avond terecht voor een afspraak. We zouden wel willen vragen om zoveel mogelijk overdag te komen indien U daartoe de mogelijkheid hebt. Of toch het vroegst mogelijke tijdstip te kiezen. Zo kunnen we iedereen de kans bieden om zo snel mogelijk gezien te worden.
-
-
-### Vroedvrouw/lactatiedeskundige
-
-Sinds 1 juni houdt Saartje Louckx  op zelfstandige basis consultaties in onze praktijk op dinsdagavond., tussen 16u en 20u. U kan bij haar terecht voor opvolging van de zwangerschap. Ook postnatale zorgen aan huis neemt ze op zich. 
-
-U hoeft geen patiënt te zijn in onze praktijk om bij haar terecht te kunnen. Gelieve 2 klevertjes van de mutualiteit mee te brengen als u bij haar op raadpleging komt. Meer informatie vindt U op haar website <a href="http://www.thuisvroedvrouw.be">www.thuisvroedvrouw.be</a>.
-
 
 ### Griepseizoen 2017-2018:
 
