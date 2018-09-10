@@ -7,12 +7,14 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 ### Nieuws
 
-Vanaf 1 september 2017 ondersteunt Saartje Louckx onze praktijk als praktijkassistente. Saartje is eveneens vroedvrouw en lactatiedeskundige. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden.  Verder zal zij ook instaan voor de administratieve ondersteuning van de praktijk.
+Onze huidige praktijkassistente, Saartje Louckx, is in blijde verwachting van haar 3e kindje. Na haar bevallingsrust gaat zij terug aan de slag als vroedvrouw in het ziekenhuis. Wij verwelkomen vanaf 15 september Marijke Henderickx, onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden.  Verder zal zij ook instaan voor de administratieve ondersteuning van de praktijk.
 
 Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat.
 Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
 
-Onze haio, Dr. Marie Lambrecht blijft nog een jaar in onze praktijk. Zo zal zij ook haar laatste jaar van de opleiding huisartsgeneeskunde in onze praktijk voltooien. Zij zal tot 31/08/2018 in onze praktijk blijven. Tot dan kan U dus ook bij haar terecht voor een afspraak. Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
+Dr. Marie Lambrecht voltooide haar 2-jarige opleiding tot huisarts in onze praktijk en is nu afgestudeerd als huisarts. Wij wensen haar alle succes toe tijdens haar verdere carrière. 
+
+Vanaf 1 oktober zal Dr. Noémie Schenk haar eerste jaar van de opleiding tot huisarts in onze praktijk doen. Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
 
 ### Raadplegingen
 
@@ -22,18 +24,18 @@ U kan een afspraak inplannen via de online agenda of telefonisch, bij voorkeur i
 
 U kan ook 's avond terecht voor een afspraak. We zouden wel willen vragen om zoveel mogelijk overdag te komen indien U daartoe de mogelijkheid hebt. Of toch het vroegst mogelijke tijdstip te kiezen. Zo kunnen we iedereen de kans bieden om zo snel mogelijk gezien te worden.
 
-### Griepseizoen 2017-2018:
+### Griepseizoen 2018-2019:
 
 Griep treft elke winter 1 op de 10 mensen. Meestal genees je vanzelf, maar bij sommige risicogroepen kan griep ernstige gevolgen hebben. Daarom wordt een griepvaccin aanbevolen voor iederen ouder dan 65 jaar, zwangeren, ouders van kindjes jonger dan 6 maanden en mensen met gezondheidsproblemen zoals diabetes of een ziekte van longen, hart, lever of nieren. Jaarlijkse griepvaccinatie biedt de beste kans om zonder griep de winter door te komen.
 
+Personen die tot één van deze risicogroepen behoren, kunnen vanaf 17 september, van maandag tem vrijdag tussen 8u30 en 12u hun voorschrift voor het griepvaccin komen afhalen bij onze praktijkassistente.
+
 Op onderstaande momenten kan u zonder afspraak terecht voor het plaatsen van een griepvaccin. Let op: U dient het vaccin zelf mee te brengen.
-- Woensdag 25/10/2017: van 15u tot 16u
-- Dinsdag 7/11/2017: van 19u tot 20u
-- Vrijdag 17/11/2017: van 11u tot 12u
+- Vrijdag 26 oktober tussen 11u en 12u
+- Donderdag 8 november tussen 13u30 en 14u30
+- Dinsdag 13 november tussen 20u en 21u
 
 Tijdens deze momenten is er enkel tijd voor het zetten van uw griepvaccin. Indien u nog andere vragen hebt, vragen wij u vriendelijk een aparte consultatie te boeken op een ander tijdstip.
-
-
  
 ### Belangrijk: geïnformeerde toestemming
 
