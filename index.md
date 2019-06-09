@@ -5,16 +5,20 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+
+
+### Belangrijk: wegenwerken plaisancebrug ! 
+
+Van 11 juni tot eind augustus zal omwille van vernieuwingswerken de plaisancebrug volledig afgesloten zijn voor auto's. De brug blijft wel toegankelijk voor fietsers en voetgangers.
+Voor automobilisten wordt een omleiding via de postzegellaan voorzien.
+
 ### Nieuws
 
-Onze huidige praktijkassistente, Saartje Louckx, is in blijde verwachting van haar 3e kindje. Na haar bevallingsrust gaat zij terug aan de slag als vroedvrouw in het ziekenhuis. Wij verwelkomen vanaf 15 september Marijke Henderickx, onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden.  Verder zal zij ook instaan voor de administratieve ondersteuning van de praktijk.
+Sinds 15 september 2018 is Marijke Henderickx onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden. Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
 
-Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat.
-Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
+Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat. 
 
-Dr. Marie Lambrecht voltooide haar 2-jarige opleiding tot huisarts in onze praktijk en is nu afgestudeerd als huisarts. Wij wensen haar alle succes toe tijdens haar verdere carrière. 
-
-Vanaf 1 oktober zal Dr. Noémie Schenk haar eerste jaar van de opleiding tot huisarts in onze praktijk doen. Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
+Dr. Noémie Schenk blijft nog haio in onze praktijk tot eind september 2019. Vanaf oktober zal er een nieuwe haio het eerste jaar van haar opleiding in onze praktijk voltooien. Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
 
 ### Raadplegingen
 
@@ -24,18 +28,11 @@ U kan een afspraak inplannen via de online agenda of telefonisch, bij voorkeur i
 
 U kan ook 's avond terecht voor een afspraak. We zouden wel willen vragen om zoveel mogelijk overdag te komen indien U daartoe de mogelijkheid hebt. Of toch het vroegst mogelijke tijdstip te kiezen. Zo kunnen we iedereen de kans bieden om zo snel mogelijk gezien te worden.
 
-### Griepseizoen 2018-2019:
+### Griepseizoen 2019-2020:
 
 Griep treft elke winter 1 op de 10 mensen. Meestal genees je vanzelf, maar bij sommige risicogroepen kan griep ernstige gevolgen hebben. Daarom wordt een griepvaccin aanbevolen voor iederen ouder dan 65 jaar, zwangeren, ouders van kindjes jonger dan 6 maanden en mensen met gezondheidsproblemen zoals diabetes of een ziekte van longen, hart, lever of nieren. Jaarlijkse griepvaccinatie biedt de beste kans om zonder griep de winter door te komen.
 
-Personen die tot één van deze risicogroepen behoren, kunnen vanaf 17 september, van maandag tem vrijdag tussen 8u30 en 12u hun voorschrift voor het griepvaccin komen afhalen bij onze praktijkassistente.
-
-Op onderstaande momenten kan u zonder afspraak terecht voor het plaatsen van een griepvaccin. Let op: U dient het vaccin zelf mee te brengen.
-- Vrijdag 26 oktober tussen 11u en 12u
-- Donderdag 8 november tussen 13u30 en 14u30
-- Dinsdag 13 november tussen 20u en 21u
-
-Tijdens deze momenten is er enkel tijd voor het zetten van uw griepvaccin. Indien u nog andere vragen hebt, vragen wij u vriendelijk een aparte consultatie te boeken op een ander tijdstip.
+Ook dit jaar zullen we in oktober en november weer enkele vaccinatiemomenten voorzien. Meer informatie volgt hierover vanaf september.
  
 ### Belangrijk: geïnformeerde toestemming
 
@@ -49,8 +46,17 @@ Hoe kan u uw toestemming geven? Dat kan u thuis zelf doen via: <a href="www.pati
 
 Aarzel niet ons aan te spreken als u nog vragen hierover heeft!
 
+### Praktijkinfo
 
+<p>
+Huisartsenpraktijk De Vaart<br>
+Stuivenbergvaart 52<br>
+2800 Mechelen<br>
+</p>
+<p>
+Telefoon: <a href="tel:015/48.03.03">015/48.03.03</a>
+</p>
 
-
-
-
+<p>
+Email: <span class="doeeensraar">eb.traavednestrasiuh@ofni</span>
+</p>
