@@ -27,6 +27,17 @@ Personen die ernstig ziek, bedlegerig of minder mobiel zijn, kunnen een huisbezo
 
 Aangezien er in de praktijkruimte betere onderzoeks- en behandelingsmogelijkheden zijn, vragen wij u om, indien mogelijk, steeds zelf naar de praktijk te komen. 
 
+### <a name="wacht">Wachtdiensten</a>
+
+In het weekend en of feestdagen kan u na telefonisch contact op het nummer 1733 terecht op de huisartsenwachtpost te Mechelen, Liersesteenweg 435 (naast ingang van spoedgevallen AZ Sint-Maarten). 
+
+Tijdens de nachten in de week van 19u tot 8u is de wachtpost gesloten, maar kan u eveneens het nummer 1733 bellen om de dokter van wacht te bereiken.
+
+Apotheek: www.apothekers-mechelen.be
+
+Tandarts:
+Op zaterdag, zondag en feestdagen tussen 9u en 18u: 0903/999 15
+
 ### <a name="spoedgevallen">Spoedgevallen</a>
 
 Wanneer dringende hulp nodig is, mag u uiteraard altijd bellen.
@@ -50,14 +61,17 @@ Dit dossier zorgt ervoor dat uw huisarts een totaalbeeld heeft van uw gezondheid
 
 Voor het bijhouden en coördineren van uw GMD voorziet het RIZIV een vergoeding per kalenderjaar. Dit bedrag wordt rechtstreeks via derdebetalersregeling door het ziekenfonds betaald en is dus gratis voor u als patiënt. Hiervoor brengt u een klevertje van de mutualiteit en uw SIS-kaart mee. Bovendien geniet u indien uw GMD in orde is, van een vermindering van het remgeld tot 30% voor een huisbezoek of raadpleging binnen onze groepspraktijk. 
 
-### <a name="wacht">Wachtdiensten</a>
+### <a name="toestemming"> Geïnformeerde toestemming
 
-Voor dringende medische problemen na 19u en tijdens het weekend kan u de dokter van wacht bellen op het nummer 070/25.40.40. Probeer echter altijd eerst de praktijk te bereiken. 
+Beste patiënten, in deze gedigitaliseerde tijden is het mogelijk voor ons als huisarts om efficiënter samen te werken met andere zorgverleners in de eerste lijn en met de ziekenhuizen. Dit kan alleen door uw geïnformeerde toestemming (informed consent) te geven om uw gezondheidsgegevens te delen.
 
-Apotheek: 0900/10.500 of www.apotheek.be
+Wat houdt dit precies in? Als u uw goedkeuring geeft, kunnen zorgverleners relevante gegevens met betrekking tot uw medische voorgeschiedenis, medicatie, vaccinaties, enz. op een beveiligde manier met elkaar delen. Op die manier kunnen we beter samenwerken, onnodige onderzoeken vermijden en u beter behandelen. Enkel zorgverleners waar u een therapeutische relatie mee heeft, kunnen deze gegevens inkijken. Hiervoor wordt telkens ingelogd met uw elektronische identiteitskaart. 
 
-Tandarts:
-Op zaterdag, zondag en feestdagen tussen 9u en 18u: 0903/999 15
+Een voorbeeld: u gaat naar de kust en krijgt een ongeval waarvoor u opgenomen moet worden in het plaatselijk ziekenhuis. Door uw toestemming te geven kan de spoedarts nakijken of en welke medicatie u neemt, of u allergieën heeft, of u al eerdere operaties gehad heeft, enz. Hierdoor kan er snel en efficiënter gehandeld worden.
+
+Hoe kan u uw toestemming geven? Dat kan u thuis zelf doen via: <a href="www.patientconsent.be">www.patientconsent.be</a>. U dient dan in te loggen met uw elektronische identiteitskaart. U kan dit ook bij de huisarts doen, de apotheek of in het ziekenhuis. U kan op elk moment uw toestemming intrekken en u kan steeds vragen aan uw zorgverlener om bepaalde informatie niet te delen.
+
+Aarzel niet ons aan te spreken als u nog vragen hierover heeft!
 
 ### <a name="afgevaardigden">Medisch afgevaardigden</a>
 
