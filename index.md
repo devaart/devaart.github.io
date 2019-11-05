@@ -5,6 +5,12 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+### Vrije raadpleging
+
+Van 1 december  2019 tot 3 april 2020 (niet in de schoolvakanties) zullen we een vrije raadpleding houden.
+Tussen 15u30 en 16u30 zijn er consultaties (enkel voor reeds ingeschreven patiënten) zonder op voorhand een afspraak te maken. Deze zullen afwisselend door zowel Dr. Van Tongelen, Dr. Decamps als Dr. Acke worden gehouden. Deze zijn voor één acute klacht (ziekte, vaccinatie, …). Heeft u bijkomende medische vragen of problemen maakt u best een afspraak.
+Er kunnen hierdoor soms iets langere wachttijden zijn, maar dankzij de vrije raadpleging kunnen we garanderen dat u de dag zelf nog geholpen kan worden.
+
 ### Nieuwe haio
 
 Vanaf 1 oktober verwelkomen wij Dr. Elien Acke als nieuwe haio in onze praktijk. Wij nemen afscheid van Dr. Noémie Schenk, die het eerste jaar van haar opleiding tot huisartsgeneeskunde in onze praktijk voltooide. Wij wensen haar nog veel succes toe in haar verdere opleiding.  Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
