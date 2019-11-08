@@ -3,10 +3,9 @@ Installation:
 - bundler
 - ruby
 
-
+```bash
 bundle install
-
-
+```
 
 Notest to self
 =================
