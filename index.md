@@ -5,6 +5,21 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+### Corona
+
+Patiënten met koorts en/of luchtwegklachten én die de voorbije 14 dagen in een risicogebied geweest zijn of met een (bevestigd) besmette persoon in contact zijn geweest: gelieve geen online afspraak te maken maar de praktijk te contacteren om te kijken hoe we je kunnen verder helpen.
+
+Risicogebieden: China, Zuid-Korea, Iran, Singapore, Japan en Noord-Italië.
+
+Meer informatie kan je vinden op [https://www.info-coronavirus.be/](https://www.info-coronavirus.be/).
+
+### Verhuis
+
+We zijn verheugd jullie te kunnen melden dat we binnenkort verhuizen! Vanaf half juni zullen de raadplegingen doorgaan in de Vrijgeweidestraat 4. De exacte verhuisdatum delen we jullie nog mee.
+
+In onze nieuwe praktijk hebben we meer ruimte en zullen we jullie nog beter van dienst kunnen zijn.
+Er zijn enkele parkeerplaatsen voor de deur voorzien of u kan uw wagen parkeren in de Vrijgeweidestraat of de Stuivenbergvaart. Fietsen kunnen voor de deur gestald worden.
+
 ### Vrije raadpleging
 
 Van 1 december  2019 tot 3 april 2020 (niet in de schoolvakanties) zullen we een vrije raadpleding houden.
@@ -13,7 +28,7 @@ Er kunnen hierdoor soms iets langere wachttijden zijn, maar dankzij de vrije raa
 
 ### Nieuwe haio
 
-Vanaf 1 oktober verwelkomen wij Dr. Elien Acke als nieuwe haio in onze praktijk. Wij nemen afscheid van Dr. Noémie Schenk, die het eerste jaar van haar opleiding tot huisartsgeneeskunde in onze praktijk voltooide. Wij wensen haar nog veel succes toe in haar verdere opleiding.  Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
+Vanaf 1 oktober 2019 verwelkomen wij Dr. Elien Acke als nieuwe haio in onze praktijk. Wij nemen afscheid van Dr. Noémie Schenk, die het eerste jaar van haar opleiding tot huisartsgeneeskunde in onze praktijk voltooide. Wij wensen haar nog veel succes toe in haar verdere opleiding.  Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
 
 ### Griepseizoen 2019-2020:
 
@@ -26,12 +41,6 @@ Dit jaar zullen de vaccinatiemomenten doorgaan op:
 - donderdag 21/11 van 20u tot 21u 
 
 U moet zelf uw vaccin meebrengen! Een voorschrift kan u vanaf maandag 16/09 dagelijks komen ophalen bij onze praktijkassistente en dit elke werkdag van 8u30 tot 11u.
-
-### Praktijkassistente
-
-Sinds 15 september 2018 is Marijke Henderickx onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden. Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
-
-Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat. 
 
 ### Raadplegingen
 

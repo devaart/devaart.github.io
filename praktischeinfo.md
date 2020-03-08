@@ -21,6 +21,12 @@ Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consu
 
 In onze praktijk kan U met bancontact betalen. Om veiligheidsredenen geniet dit ook onze voorkeur. 
 
+### <a name="praktijkassistente">Praktijkassistente</a>
+
+Sinds 15 september 2018 is Marijke Henderickx onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden. Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
+
+Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat.
+
 ### <a name="huisbezoeken">Huisbezoeken</a>
 
 Personen die ernstig ziek, bedlegerig of minder mobiel zijn, kunnen een huisbezoek aanvragen. Hiervoor belt u best tussen 8 en 10u ’s morgens op het telefoonnummer  <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>. Enkel op die manier kunnen wij u garanderen dat we op dezelfde dag nog langs kunnen komen.
