@@ -5,11 +5,13 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Corona
+### Opgelet: vrije raadpleging afgeschaft!
 
-Patiënten met koorts en/of luchtwegklachten én die de voorbije 14 dagen in een risicogebied geweest zijn of met een (bevestigd) besmette persoon in contact zijn geweest: gelieve geen online afspraak te maken maar de praktijk te contacteren om te kijken hoe we je kunnen verder helpen.
+Om te vermijden dat er teveel patiënten gelijktijdig in de wachtzaal moeten zitten, wordt de vrije raadpleging vanaf 12 maart afgeschaft. U kan uiteraard nog steeds gewoon op afspraak komen, of bellen indien U geen vrij moment meer ziet maar toch nog dringend nood heeft aan een consultatie.
 
-Risicogebieden: China, Zuid-Korea, Iran, Singapore, Japan en Noord-Italië.
+### Coronavirus COVID-19
+
+Patiënten met koorts en/of luchtwegklachten: gelieve geen online afspraak te maken maar de praktijk te contacteren om te kijken hoe we je kunnen verder helpen.
 
 Meer informatie kan je vinden op [https://www.info-coronavirus.be/](https://www.info-coronavirus.be/).
 
@@ -19,12 +21,6 @@ We zijn verheugd jullie te kunnen melden dat we binnenkort verhuizen! Vanaf half
 
 In onze nieuwe praktijk hebben we meer ruimte en zullen we jullie nog beter van dienst kunnen zijn.
 Er zijn enkele parkeerplaatsen voor de deur voorzien of u kan uw wagen parkeren in de Vrijgeweidestraat of de Stuivenbergvaart. Fietsen kunnen voor de deur gestald worden.
-
-### Vrije raadpleging
-
-Van 1 december  2019 tot 3 april 2020 (niet in de schoolvakanties) zullen we een vrije raadpleding houden.
-Tussen 15u30 en 16u30 zijn er consultaties (enkel voor reeds ingeschreven patiënten) zonder op voorhand een afspraak te maken. Deze zullen afwisselend door zowel Dr. Van Tongelen, Dr. Decamps als Dr. Acke worden gehouden. Deze zijn voor één acute klacht (ziekte, vaccinatie, …). Heeft u bijkomende medische vragen of problemen maakt u best een afspraak.
-Er kunnen hierdoor soms iets langere wachttijden zijn, maar dankzij de vrije raadpleging kunnen we garanderen dat u de dag zelf nog geholpen kan worden.
 
 ### Nieuwe haio
 
