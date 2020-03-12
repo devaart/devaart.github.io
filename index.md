@@ -11,7 +11,7 @@ Om te vermijden dat er teveel patiënten gelijktijdig in de wachtzaal moeten zit
 
 ### Coronavirus COVID-19
 
-Patiënten met koorts en/of luchtwegklachten: gelieve geen online afspraak te maken maar de praktijk te contacteren om te kijken hoe we je kunnen verder helpen.
+Wij vragen met aandrang aan iedereen met symptomen van een luchtweginfectie om NIET naar de praktijk te komen. Keelpijn, hoest, loopneus, ... zelfs zonder koorts: BLIJF THUIS en neem telefonisch contact op met ons! Dit is belangrijk om verspreiding van het virus te vertragen. 
 
 Meer informatie kan je vinden op [https://www.info-coronavirus.be/](https://www.info-coronavirus.be/).
 
