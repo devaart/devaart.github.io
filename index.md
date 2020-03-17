@@ -5,15 +5,18 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Opgelet: vrije raadpleging afgeschaft!
+### Afspraken
 
-Om te vermijden dat er teveel patiënten gelijktijdig in de wachtzaal moeten zitten, wordt de vrije raadpleging vanaf 12 maart afgeschaft. U kan uiteraard nog steeds gewoon op afspraak komen, of bellen indien U geen vrij moment meer ziet maar toch nog dringend nood heeft aan een consultatie.
+Wij hebben tijdelijk al onze online afspraken geblokkeerd om te vermijden dat zieke patiënten in onze wachtzaal komen zitten. U kan uiteraard nog altijd bij ons terecht, maar moet nu voor elke afspraak telefonisch met ons contact opnemen!
 
 ### Coronavirus COVID-19
 
 Wij vragen met aandrang aan iedereen met symptomen van een luchtweginfectie om NIET naar de praktijk te komen. Keelpijn, hoest, loopneus, ... zelfs zonder koorts: BLIJF THUIS en neem telefonisch contact op met ons! Dit is belangrijk om verspreiding van het virus te vertragen. 
 
 Meer informatie kan je vinden op [https://www.info-coronavirus.be/](https://www.info-coronavirus.be/).
+
+### Opgelet: vrije raadpleging afgeschaft!
+Om te vermijden dat er teveel patiënten gelijktijdig in de wachtzaal moeten zitten, wordt de vrije raadpleging vanaf 12 maart afgeschaft. U kan uiteraard nog steeds gewoon op afspraak komen, of bellen indien U geen vrij moment meer ziet maar toch nog dringend nood heeft aan een consultatie.
 
 ### Verhuis
 
