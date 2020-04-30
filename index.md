@@ -5,9 +5,22 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Afspraken
+### Update: afspraken vanaf 04/05
 
-Wij hebben tijdelijk al onze online afspraken geblokkeerd om te vermijden dat zieke patiënten in onze wachtzaal komen zitten. U kan uiteraard nog altijd bij ons terecht, maar moet nu voor elke afspraak telefonisch met ons contact opnemen!
+Vanaf maandag 04/05 kan u, ook voor niet-dringende zorg, terug bij ons een AFSRPAAK maken. Voorlopig kunnen afspraken enkel TELEFONISCH gemaakt worden (bij voorkeur tussen 9u en 12u). Dit om de veiligheid van zowel u als ons te kunnen garanderen. 
+
+Daarom enkele BELANGRIJKE AFSPRAKEN:
+
+- U komt bij voorkeur ALLEEN op raadpleging, of met max 1 begeleider (of bij kinderen max 1 ouder).
+- U draagt een MONDMASKER dat u bij voorkeur van thuis meebrengt.
+- ONTSMET uw handen bij het binnenkomen EN bij het buitengaan.
+- U komt STIPT op het moment van uw afspraak. Indien u te vroeg bent, wacht u in uw auto/buiten en belt u pas aan op het ogenblik van uw afspraak. Op die manier zorgen we ervoor dat er niemand langdurig in de wachtzaal moet zitten.
+- We proberen ons strikt te houden aan de voorziene tijd. Indien u inschat dat er meer tijd nodig zal zijn dan 15min (bv bij meerdere problemen of bij een gesprek) gelieve dit dan te vermelden bij het maken van een afspraak.
+- U kan enkel betalen met BANCONTACT.
+
+Wij voorzien voldoende tijd tussen 2 afspraken zodat we ons materiaal kunnen ontsmetten en onze praktijkruimte kunnen desinfecteren zodat u op een veilige manier onderzocht kan worden.
+
+Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
 
 ### Coronavirus COVID-19
 
@@ -15,8 +28,6 @@ Wij vragen met aandrang aan iedereen met symptomen van een luchtweginfectie om N
 
 Meer informatie kan je vinden op [https://www.info-coronavirus.be/](https://www.info-coronavirus.be/).
 
-### Opgelet: vrije raadpleging afgeschaft!
-Om te vermijden dat er teveel patiënten gelijktijdig in de wachtzaal moeten zitten, wordt de vrije raadpleging vanaf 12 maart afgeschaft. U kan uiteraard nog steeds gewoon op afspraak komen, of bellen indien U geen vrij moment meer ziet maar toch nog dringend nood heeft aan een consultatie.
 
 ### Verhuis
 
@@ -28,18 +39,6 @@ Er zijn enkele parkeerplaatsen voor de deur voorzien of u kan uw wagen parkeren 
 ### Nieuwe haio
 
 Vanaf 1 oktober 2019 verwelkomen wij Dr. Elien Acke als nieuwe haio in onze praktijk. Wij nemen afscheid van Dr. Noémie Schenk, die het eerste jaar van haar opleiding tot huisartsgeneeskunde in onze praktijk voltooide. Wij wensen haar nog veel succes toe in haar verdere opleiding.  Wij herinneren U er graag aan dat wij dagelijks een patiëntenoverleg houden, zodat alle artsen in de praktijk op de hoogte zijn van uw medische toestand. <a href="praktischeinfo.html#opleidingspraktijk">Klik hier</a> voor meer informatie over onze praktijk als opleidingsplaats.
-
-### Griepseizoen 2019-2020:
-
-Griep treft elke winter 1 op de 10 mensen. Meestal genees je vanzelf, maar bij sommige risicogroepen kan griep ernstige gevolgen hebben. Daarom wordt een griepvaccin aanbevolen voor iederen ouder dan 65 jaar, zwangeren, ouders van kindjes jonger dan 6 maanden en mensen met gezondheidsproblemen zoals diabetes of een ziekte van longen, hart, lever of nieren. Jaarlijkse griepvaccinatie biedt de beste kans om zonder griep de winter door te komen.
-
-Ook dit jaar voorzien wij weer enkele **vaccinatiemomenten** waarop u, zonder afspraak, kan langskomen voor het plaatsen van uw griepvaccin. Wij herinneren u er graag aan dat deze momenten enkel en alleen bedoeld zijn voor het plaatsen van uw vaccin. Voor andere vragen, het voorschrijven van medicatie ed, moet u een nieuwe afspraak maken. 
-Dit jaar zullen de vaccinatiemomenten doorgaan op:
-- zaterdag 09/11 van 9u tot 11u
-- vrijdag 15/11 van 13u tot 14u
-- donderdag 21/11 van 20u tot 21u 
-
-U moet zelf uw vaccin meebrengen! Een voorschrift kan u vanaf maandag 16/09 dagelijks komen ophalen bij onze praktijkassistente en dit elke werkdag van 8u30 tot 11u.
 
 ### Raadplegingen
 
