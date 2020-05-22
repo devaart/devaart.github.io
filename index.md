@@ -5,11 +5,30 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
-### Update: afspraken vanaf 04/05
+### UPDATE: online afspraken vanaf 20/05
 
-Vanaf maandag 04/05 kan u, ook voor niet-dringende zorg, terug bij ons een AFSRPAAK maken. Voorlopig kunnen afspraken enkel TELEFONISCH gemaakt worden (bij voorkeur tussen 9u en 12u). Dit om de veiligheid van zowel u als ons te kunnen garanderen. 
+Vanaf heden kunnen er terug online afspraken geboekt worden. 
 
-Daarom enkele BELANGRIJKE AFSPRAKEN:
+Het is nu wel verplicht om de reden van uw consultatie op te geven. Gelieve uw symptomen of reden van bezoek duidelijk te noteren. 
+
+Indien u volgende klachten heeft komt u nog steeds NIET naar de raadpleging.  
+
+* koorts
+* hoesten
+* kortademigheid
+* keelpijn
+* snotteren
+* diarree
+
+In dat geval doet u een aanvraag voor een teleconsultatie. U kan hiervoor elke weekdag bellen tussen 9u en 11u. Bij een teleconsultatie zal één van de artsen u de dag zelf opnieuw telefonisch contacteren.
+
+Redenen voor een teleconsult
+
+* Patiënten met corona-gerelateerde symptomen
+* Administratieve of korte medische vragen
+* Herhalingsvoorschriften: we kunnen u 2x een voorschrift voor 3 maanden afleveren zonder tussenkomst van een effectieve consultatie, bij een 3e verlenging vragen we u om langs te komen.
+
+Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE AFSPRAKEN:
 
 - U komt bij voorkeur ALLEEN op raadpleging, of met max 1 begeleider (of bij kinderen max 1 ouder).
 - U draagt een MONDMASKER dat u bij voorkeur van thuis meebrengt.
