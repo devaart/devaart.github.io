@@ -5,6 +5,11 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+
+### NIEUWS
+
+Op vrijdag 19/06 zal onze praktijk uitzonderlijk gesloten zijn omwille van onze verhuis. Wij blijven telefonisch bereikbaar en bij zéér dringende problemen kan u nog steeds langskomen
+
 ### Verhuis
 
 Vanaf 22 juni zullen de raadplegingen doorgaan in de Vrijgeweidestraat 4. 
