@@ -5,17 +5,14 @@
 
 Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
 
+<img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### NIEUWS
+<h3 style="color:red"> WIJ ZIJN VERHUISD</h3>
+<p style="color:red">
+Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
+</p>
 
-Op vrijdag 19/06 zal onze praktijk uitzonderlijk gesloten zijn omwille van onze verhuis. Wij blijven telefonisch bereikbaar en bij zéér dringende problemen kan u nog steeds langskomen
 
-### Verhuis
-
-Vanaf 22 juni zullen de raadplegingen doorgaan in de Vrijgeweidestraat 4. 
-
-In onze nieuwe praktijk hebben we meer ruimte en zullen we jullie nog beter van dienst kunnen zijn.
-Er zijn enkele parkeerplaatsen voor de deur voorzien of u kan uw wagen parkeren in de Vrijgeweidestraat of de Stuivenbergvaart. Fietsen kunnen voor de deur gestald worden.
 
 ### UPDATE: online afspraken vanaf 20/05
 
@@ -53,7 +50,7 @@ Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
 
 <p>
 Huisartsenpraktijk De Vaart<br>
-Stuivenbergvaart 52<br>
+Vrijgeweidestraat 4<br>
 2800 Mechelen<br>
 </p>
 <p>
