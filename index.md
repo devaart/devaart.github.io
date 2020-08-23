@@ -12,8 +12,6 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
 </p>
 
-
-
 ### UPDATE: online afspraken vanaf 20/05
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
@@ -45,6 +43,10 @@ Redenen voor een teleconsult
 - U kan enkel betalen met BANCONTACT.
 
 Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
+
+<img src="/images/photos/vrijgeweidestraat.jpg" width="30%" align="right"/>
+
+<br>
 
 ### Praktijkinfo
 
