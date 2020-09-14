@@ -12,6 +12,29 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
 </p>
 
+### NIEUWS: Nieuwe huisarts-in-opleiding (haio)
+
+Vanaf 1 oktober verwelkomen bij Dr. Lise Rosiers als nieuwe haio in onze praktijk. Dr. Rosiers zal het laatste jaar van haar opleiding tot huisarts bij ons voltooien. Zij heeft reeds 1,5 jaar opleiding in een huisartsenpraktijk en 6 maand ziekenhuisstage achter de rug. 
+Dit betekent dan ook dat wij afscheid nemen van Dr. Elien Acke, die het eerste jaar van haar opleiding bij ons volbracht. Wij wensen haar nog veel succes in haar verdere opleiding tot huisarts. Klik hier voor meer informatie over onze praktijk als opleidingsplaats.
+
+### GRIEPVACCINATIES 2020-2021
+
+In het kader van de COVID-pandemie is het dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin (op voorschrift) zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). 
+Het ideale moment voor vaccinatie is tussen half oktober en half november. Dit jaar voorzien wij 2 vaccinatiemomenten die zullen doorgaan in de turnzaal van school DE BEEMDEN, Stuivenbergbaan 135. Daar beschikken we over voldoende ruimte om alle covid-regels in acht te nemen. 
+Voor het afhalen van uw voorschrift én voor het maken van een afspraak op 1 van onze vaccinatiemomenten, kan u elke dag telefonisch terecht bij onze praktijkassistente tussen 8u30 en 11u30. 
+
+Vaccinatiemomenten in turnzaal De BEEMDEN:
+
+- zaterdag 24 oktober 2020 van 14u tot 17u
+- zaterdag 14 november 2020 van 14u tot 17u
+
+**Prioritaire doelgroepen voor vaccinatie:**
+
+Groep 1: personen met een risico op complicaties: zwangere vrouwen, chronische zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), een lever- of nierziekte of een spierziekte, personen met een leeftijd > 65 jaar, personen die verblijven in een instelling, personen onder langdurige aspirinetherapie
+Groep 2: personen werkzaam in de gezondheidssector
+Groep 3: personen die onder hetzelfde dak wonen als groep 1 of die zorg dragen voor kinderen jonger dan 6 maanden
+Ook vanaf 50 jaar kan het zinvol zijn om u te laten vaccineren.
+
 ### UPDATE: online afspraken vanaf 20/05
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
