@@ -7,8 +7,14 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-<h3 style="color:red"> WIJ ZIJN VERHUISD</h3>
+<h3 style="color:red">Tijdelijk geen online afspraken</h3>
 <p style="color:red">
+Door omstandigheden kan u de komende 2 weken geen online afspraken meer maken. Onze praktijk is NIET gesloten. Wij blijven telefonisch bereikbaar en u kan nog steeds langskomen maar moet hiervoor dus eerst telefonisch met ons contact opnemen. 
+Aarzel dus niet om ons te bellen bij vragen/bezorgheden/klachten. 
+</p>
+
+<h3> WIJ ZIJN VERHUISD</h3>
+<p>
 Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
 </p>
 
