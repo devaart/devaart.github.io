@@ -3,13 +3,15 @@
         title: Covid-19
 ---
 
-## INFORMATIE COVID-19
+## Informatie COVID-19
 
 Omdat we merken dat niet iedereen correct op de hoogte is van de COVID-symptomen zetten we hieronder alles nog eens op een rijtje.
+
 We willen ook benadrukken dat je mogelijk al getest moet worden bij milde symptomen. Met andere woorden, je kan ook besmet zijn met COVID zonder heel erg ziek te zijn. Koorts is bijvoorbeeld niet altijd aanwezig.
+
 Ook nog eens een warme oproep om telefonisch contact op te nemen met de praktijk bij verdachte symptomen en dus zelf geen online afspraak vast te leggen.
 
-### Mogelijke besmetting met Covid-19 ?
+### Mogelijke besmetting met Covid-19?
 
 * minstens één van de volgende hoofdsymptomen die acuut ontstaan zijn, zonder andere duidelijke oorzaak :
 
