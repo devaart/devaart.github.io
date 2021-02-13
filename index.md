@@ -12,9 +12,9 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
 </p>
 
-### NIEUWS: psychologe in onze praktijk. 
+### NIEUWS: psychologe in onze praktijk.
 
-Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze praktijk. Zij stelt zich hieronder graag zelf voor: 
+Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze praktijk. Zij stelt zich hieronder graag zelf voor:
 
 > Zie je geen uitweg meer? Loop je helemaal vast? Heb je het gevoel dat je er niet alleen uitgeraakt? Of heb je nood aan een luisterend oor? Iedereen heeft wel eens moeilijkheden of zit met zorgen in zijn/haar hoofd. Soms krijg je dit zelf opgelost, maar soms kan je hier wat hulp bij gebruiken. Herken jij jezelf hier in? Dan kan ondersteuning net zijn wat jij nodig hebt.
 >
