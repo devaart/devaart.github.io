@@ -23,10 +23,6 @@ Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze prak
 > Groetjes
 > Leonoor
 
-### NIEUWS: Huisarts-in-opleiding (haio)
-
-Vanaf 1 oktober 2020 verwelkomen bij Dr. Lise Rosiers als nieuwe haio in onze praktijk. Dr. Rosiers zal het laatste jaar van haar opleiding tot huisarts bij ons voltooien. Zij heeft reeds 1,5 jaar opleiding in een huisartsenpraktijk en 6 maand ziekenhuisstage achter de rug.
-
 ### UPDATE: online afspraken vanaf 20/05
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
