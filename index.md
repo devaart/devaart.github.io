@@ -23,10 +23,10 @@ Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze prak
 > Groetjes
 > Leonoor
 
-### NIEUWS: Nieuwe huisarts-in-opleiding (haio)
+### NIEUWS: Huisarts-in-opleiding (haio)
 
-Vanaf 1 oktober verwelkomen bij Dr. Lise Rosiers als nieuwe haio in onze praktijk. Dr. Rosiers zal het laatste jaar van haar opleiding tot huisarts bij ons voltooien. Zij heeft reeds 1,5 jaar opleiding in een huisartsenpraktijk en 6 maand ziekenhuisstage achter de rug. 
-Dit betekent dan ook dat wij afscheid nemen van Dr. Elien Acke, die het eerste jaar van haar opleiding bij ons volbracht. Wij wensen haar nog veel succes in haar verdere opleiding tot huisarts. Klik hier voor meer informatie over onze praktijk als opleidingsplaats.
+Vanaf 1 oktober 2020 verwelkomen bij Dr. Lise Rosiers als nieuwe haio in onze praktijk. Dr. Rosiers zal het laatste jaar van haar opleiding tot huisarts bij ons voltooien. Zij heeft reeds 1,5 jaar opleiding in een huisartsenpraktijk en 6 maand ziekenhuisstage achter de rug.
+
 ### UPDATE: online afspraken vanaf 20/05
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
@@ -40,13 +40,9 @@ Vanaf heden kunnen er terug online afspraken gemaakt worden.
 * snotteren
 * diarree
 
-In dat geval doet u een aanvraag voor een teleconsultatie. U kan hiervoor elke weekdag bellen tussen 9u en 11u. Bij een teleconsultatie zal één van de artsen u de dag zelf opnieuw telefonisch contacteren.
+In dat geval neemt u telefonisch contact op met de praktijk.
 
-Redenen voor een teleconsult
-
-* Patiënten met corona-gerelateerde symptomen
-* Administratieve of korte medische vragen
-* Herhalingsvoorschriften: we kunnen u 2x een voorschrift voor 3 maanden afleveren zonder tussenkomst van een effectieve consultatie, bij een 3e verlenging vragen we u om langs te komen.
+[Hier vindt u meer informatie over COVID-19 en vaccinatie](/covid.html).
 
 **Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE AFSPRAKEN:**
 
