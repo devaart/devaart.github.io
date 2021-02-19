@@ -57,6 +57,16 @@ Als alle afspraakmomenten volzet zijn en u toch graag dezelfde dag nog op consul
 
 Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consultatie.
 
+### <a name="beluurtje">Beluur</a>
+
+“Elke weekdag tussen 12u en 13u kan u een arts spreken om korte medische vragen te stellen (resultaat bloedafnames,…). We plannen dit uurtje in om telefoongesprekken tijdens onze consultatie te beperken, wat voor iedereen aangenamer is. Mogen we vragen om zoveel mogelijk gebruik te maken van dit uur.
+
+Elke arts heeft toegang tot de patiëntendossiers en door onze overlegmomenten zijn alle artsen op de hoogte van de belangrijkste medische problemen van onze patiënten.
+
+Voor uitgebreide vragen maakt u best een afspraak zodat we ruim de tijd hebben.
+
+Bij dringende medische zaken zijn wij uiteraard ook buiten dit uur bereikbaar
+
 ### <a name="bancontact">Bancontact</a>
 
 In onze praktijk kan U met bancontact betalen. Om veiligheidsredenen geniet dit ook onze voorkeur. 
