@@ -26,6 +26,7 @@ Naast consultaties voor gezondheidsproblemen kan u terecht voor een heel aantal 
 * Bloedafname 
 * Gynaecologisch onderzoek en advies, starten met de pil en pilcontrole, maken van een uitstrijkje, preventief kankeronderzoek en vaccinatie 
 * Zwangerschapsbegeleiding
+* 7e dagsonderzoek van uw pasgeboren baby
 * Onderzoek en opvolging van pasgeboren baby´s en kinderen 
 * Vaccinaties van kinderen en volwassenen
 * Onderzoek van de voet en bevriezen van wratten
@@ -65,7 +66,7 @@ Elke arts heeft toegang tot de patiëntendossiers en door onze overlegmomenten z
 
 Voor uitgebreide vragen maakt u best een afspraak zodat we ruim de tijd hebben.
 
-Bij dringende medische zaken zijn wij uiteraard ook buiten dit uur bereikbaar
+Bij dringende medische zaken zijn wij uiteraard ook buiten dit uur bereikbaar.
 
 ### <a name="bancontact">Bancontact</a>
 
