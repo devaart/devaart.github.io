@@ -31,4 +31,4 @@ Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
 
 <br/>
 
-<a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="bigbutton" id="menu_afspraak">Maak hier online een afspraak</a>
+<a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="btn bigbutton" id="menu_afspraak">Maak hier online een afspraak</a>
