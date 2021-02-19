@@ -82,14 +82,14 @@ ul.dr-roles{
 
 a.bigbutton {
 	padding:4px;
-	font-size: 24px;
-	color: #ffffff;
-  	background-color: #1B6666;	
+	font-size: 24px !important;
+	color: #ffffff !important;
+  	background-color: #1B6666 !important;
 }
 
 a.bigbutton:hover, a.bigbutton:active, a.bigbutton:focus   {
-	color: #00000;
-	background-color: #008cba;
+	color: #00000 !important;
+	background-color: #008cba !important;
 }
 
 .doeeensraar {unicode-bidi: bidi-override; direction: rtl;}
