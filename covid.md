@@ -39,7 +39,7 @@ OF
 
 ### Interessante links
 
-* https://www.info-coronavirus.be/nl/: voor alle informatie over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is).
-* https://www.coronaviruscovid19.be/coronavirus-vaccinatie: COVID-19 vaccinatieteller in België.
-* https://www.gezondheidenwetenschap.be/dossiers/vaccinatie: Factcheck vaccinatie.
-* https://maandoverzicht.nerdland.be/nerdland-special-vaccins/: Nerdland podcast rond vaccinatie. 
+* https://www.info-coronavirus.be/nl/ : all informatie van de overheid over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is).
+* https://www.coronaviruscovid19.be/coronavirus-vaccinatie : COVID-19 vaccinatieteller in België.
+* https://www.gezondheidenwetenschap.be/dossiers/vaccinatie : Factcheck vaccinatie.
+* https://maandoverzicht.nerdland.be/nerdland-special-vaccins/ : Nerdland podcast rond vaccinatie. 
