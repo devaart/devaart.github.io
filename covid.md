@@ -36,33 +36,10 @@ OF
 
 OF
 * verergering van chronische respiratoire symptomen (COPD, astma, chronische hoest...), zonder andere duidelijke oorzaak.
- 
 
-### Wat is het verschil tussen hoog en laag risico contact.
+### Interessante links
 
-Hoog risico (=nauw) contact
-* Een persoon met een cumulatief contact van 
-  * minstens 15 minuten 
-  * binnen een afstand van <1,5 m (face tot face)
-  * zonder correct gebruik van een mondmasker (neus en mond volledig bedekkend) door één van beide personen. 
-* Een persoon die in direct contact is geweest met lichaamsvloeistoffen van een COVID-19 patiënt.
-* Een persoon die door de ‘Coronalert’ app werd geïdentificeerd als een nauw contact.
-* Een persoon die meer dan 15 minuten samen met een COVID-19 patiënt heeft gereisd, in eender welk transportmiddel, zittend binnen twee zitplaatsen (in eender welke richting).
-
-Laag risico contact
-* Een contact waarbij aan één van de criteria van een hoog risico contact niet voldaan wordt is een laag risico contact, dus: 
-  * Een persoon die meer dan 15 minuten contact heeft gehad met een COVID-19 patiënt op een afstand van <1,5 m, maar waarbij beiden adequaat een mondmasker hebben gebruikt (neus en mond bedekt).
-
-  * Een persoon die minder dan 15 minuten contact heeft gehad met een COVID-19 patiënt op een afstand van <1,5 m.
-
-  * Een persoon die zich meer dan 15 minuten in dezelfde kamer/gesloten omgeving bevond met een COVID-19 patiënt, maar waarbij een afstand van >1,5 m gerespecteerd werd.
-
-Voor gezondsheidsmedewerkers gelden andere richtlijnen.
-Indien er een besmetting op school wordt vastgesteld, gelden de richtlijnen van het CLB.
-
-### Reizigers
-
-Reizigers die een negatieve test moeten voorleggen bij aankomst in het land van bestemming, kunnen hiervoor niet langer in de praktijk terecht. 
-U kan hiervoor een afspraak maken in het Tropisch Instituut te Antwerpen of het testcentrum van Brussels Airport. Deze test wordt niet terugbetaald. 
-
-
+* https://www.info-coronavirus.be/nl/: voor alle informatie over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is).
+* https://www.coronaviruscovid19.be/coronavirus-vaccinatie: COVID-19 vaccinatieteller in België.
+* https://www.gezondheidenwetenschap.be/dossiers/vaccinatie: Factcheck vaccinatie.
+* https://maandoverzicht.nerdland.be/nerdland-special-vaccins/: Nerdland podcast rond vaccinatie. 
