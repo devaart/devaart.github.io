@@ -80,6 +80,18 @@ ul.dr-roles{
 	font-size: 80%;
 }
 
+a.bigbutton {
+	padding:4px;
+	font-size: 24px;
+	color: #ffffff;
+  	background-color: #1B6666;	
+}
+
+a.bigbutton:hover, a.bigbutton:active, a.bigbutton:focus   {
+	color: #00000;
+	background-color: #008cba;
+}
+
 .doeeensraar {unicode-bidi: bidi-override; direction: rtl;}
 
 /* Making the content 100% */

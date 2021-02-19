@@ -7,7 +7,7 @@
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
 
-**Indien u volgende klachten heeft komt u nog steeds NIET naar de raadpleging.**
+**Indien u volgende (mogelijks COVID-19 gerelateerde) klachten heeft komt u nog steeds NIET naar de raadpleging.**
 
 * koorts
 * hoesten
@@ -16,7 +16,7 @@ Vanaf heden kunnen er terug online afspraken gemaakt worden.
 * snotteren
 * diarree
 
-In dat geval neemt u telefonisch contact op met de praktijk. [Hier vindt u meer informatie over COVID-19 en vaccinatie](/covid.html).
+Dit zowel voor volwassenen als kinderen. In dat geval neemt u telefonisch contact op met de praktijk. We voorzien hiervoor een specifieke infectieraadpleging. 
 
 **Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE AFSPRAKEN:**
 
@@ -29,5 +29,6 @@ In dat geval neemt u telefonisch contact op met de praktijk. [Hier vindt u meer 
 
 Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
 
+<br/>
 
-<a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="btn btn-default" id="menu_afspraak">Maak online een afspraak</a>
+<a href="http://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="btn btn-default bigbutton" id="menu_afspraak">Maak online een afspraak</a>
