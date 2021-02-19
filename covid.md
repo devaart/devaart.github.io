@@ -39,8 +39,8 @@ OF
 
 ### Interessante links
 
-* [All informatie van de overheid over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is)](https://www.info-coronavirus.be/nl/)
-* [COVID-19 vaccinatieteller in België](https://www.coronaviruscovid19.be/coronavirus-vaccinatie)
-* [Factcheck vaccinatie](https://www.gezondheidenwetenschap.be/dossiers/vaccinatie)
-* [Nerdland podcast rond vaccinatie](https://maandoverzicht.nerdland.be/nerdland-special-vaccins/)
-* [Informatie over het vaccinatiecentrum en het verloop van de vaccinatie vanuit stad Mechelen](https://www.mechelen.be/coronavirus/vaccinatie)
+* [https://www.info-coronavirus.be/nl/](https://www.info-coronavirus.be/nl/): Alle informatie van de overheid over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is).
+* [https://www.coronaviruscovid19.be/coronavirus-vaccinatie](https://www.coronaviruscovid19.be/coronavirus-vaccinatie): COVID-19 vaccinatieteller in België.
+* [https://www.gezondheidenwetenschap.be/dossiers/vaccinatie](https://www.gezondheidenwetenschap.be/dossiers/vaccinatie): Factcheck vaccinatie.
+* [https://maandoverzicht.nerdland.be/nerdland-special-vaccins/](https://maandoverzicht.nerdland.be/nerdland-special-vaccins/): Nerdland podcast rond vaccinatie
+* [https://www.mechelen.be/coronavirus/vaccinatie](https://www.mechelen.be/coronavirus/vaccinatie): Informatie over het vaccinatiecentrum en het verloop van de vaccinatie voor de regio Mechelen.
