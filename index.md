@@ -23,7 +23,7 @@ Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze prak
 > Groetjes
 > Leonoor
 
-### UPDATE: online afspraken vanaf 20/05
+### UPDATE: online afspraken
 
 Vanaf heden kunnen er terug online afspraken gemaakt worden. 
 
