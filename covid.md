@@ -54,8 +54,7 @@ Bellen voor een afspraak via het algemeen nummer 015/891010 en vragen naar een a
 U heeft hiervoor GEEN voorschrift nodig van ons. Er is voor de mensen die een negatieve coronatest moeten kunnen voorleggen om te kunnen reizen, geen tussenkomst van het RIZIV. Deze test kost €46,81.
 
 #### Wat moet u doen bij terugkeer van een reis?
-Volg de procedure die u vindt op de website van de FOD Buitenlandse Zaken. U vult het Passenger Locator Form in. U zal dan automatisch een code krijgen om zich te laten testen. Voor deze test kan u met de code die u ontvangt zelf een afspraak maken in het coronapunt in Mechelen via https://coronapuntmechelen.be/ . U volgt de nodige quarantainevoorschriften. 
-
+Volg de procedure die u vindt op de website van de FOD Buitenlandse Zaken. U vult het Passenger Locator Form in. U zal dan automatisch een code krijgen om zich te laten testen. Voor deze test kan u met de code die u ontvangt zelf een afspraak maken in het coronapunt in Mechelen via [https://coronapuntmechelen.be/]([https://coronapuntmechelen.be/). U volgt de nodige quarantainevoorschriften. 
 
 ### Interessante links
 
