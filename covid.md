@@ -40,8 +40,10 @@ OF
 ### U vertrekt op reis naar een land dat eist dat u voor vertrek een coronatest (PCR-test met neuswisser) hebt ondergaan?
 
 Steeds meer landen eisen een coronatest **voor** vertrek naar het land in kwestie. Let op: verwar deze test niet met de PCR-test die na terugkeer uit bepaalde regio's vereist is via een federaal testcentrum.
-Hoeveel tijd voor mijn reis moet ik de PCR-test afleggen?
-Dat hangt af van de voorwaarden die worden opgelegd door het land waar u naar toe reist (eindbestemming) en eventueel de doorreislanden. Voor de meest recente informatie verwijzen we naar de volgende website:  https://diplomatie.belgium.be/nl
+
+#### Hoeveel tijd voor mijn reis moet ik de PCR-test afleggen?
+
+Dat hangt af van de voorwaarden die worden opgelegd door het land waar u naar toe reist (eindbestemming) en eventueel de doorreislanden. Voor de meest recente informatie verwijzen we naar de volgende website:  [https://diplomatie.belgium.be/nl](https://diplomatie.belgium.be/nl)
 
 #### Waar kan men deze PCR-test voor een vertrek op reis laten afnemen?
 
