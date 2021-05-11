@@ -7,10 +7,9 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-<h3> WIJ ZIJN VERHUISD</h3>
-<p>
-Je kan ons voortaan vinden in de <a href="locatie.html">Vrijgeweidestraat 4</a>.
-</p>
+### Nieuws: PCR Covid-test voor reis
+
+[Meer informatie over de noodzakelijke PCR Covid-test voor reizen kan je terugvinden op de Covid info pagina](/covid)
 
 ### NIEUWS: psychologe in onze praktijk.
 
