@@ -47,12 +47,16 @@ Dat hangt af van de voorwaarden die worden opgelegd door het land waar u naar to
 
 #### Waar kan men deze PCR-test voor een vertrek op reis laten afnemen?
 
--	Prikcentrum AML : Koningin Astridlaan 51, 2800 Mechelen
+* Prikcentrum AML : Koningin Astridlaan 51, 2800 Mechelen
 ALTIJD op afspraak. U kan zelf een afspraak maken op het nummer: 0471/66 74 77
--	AZ Sint Maarten: 
+* AZ Sint Maarten: 
 Bellen voor een afspraak via het algemeen nummer 015/891010 en vragen naar een afspraak voor een covidtest voor vertrek. 
 U heeft hiervoor GEEN voorschrift nodig van ons. Er is voor de mensen die een negatieve coronatest moeten kunnen voorleggen om te kunnen reizen, geen tussenkomst van het RIZIV. Deze test kost €46,81.
+* Imelda: alle dagen. Afspraak maken via 015/50.51.11
+* Zorgteam De Maan, Tervuursesteenweg 241 te Mechelen. Iedere werkdag tussen 8u en 11u via www.medina.be of 024/63.25.15
+* [Brussels Airport Test centrum](https://www.brusselsairport.be/nl/passengers/the-impact-of-the-coronavirus/covid-19-test-centre-at-brussels-airport)
 
+Indien U een CTPC-code nodig hebt om een afspraak te maken, kan u deze bij ons bekomen na telefonisch contact. 
 #### Wat moet u doen bij terugkeer van een reis?
 Volg de procedure die u vindt op de website van de FOD Buitenlandse Zaken. U vult het Passenger Locator Form in. U zal dan automatisch een code krijgen om zich te laten testen. Voor deze test kan u met de code die u ontvangt zelf een afspraak maken in het coronapunt in Mechelen via [https://coronapuntmechelen.be/]([https://coronapuntmechelen.be/). U volgt de nodige quarantainevoorschriften. 
 
