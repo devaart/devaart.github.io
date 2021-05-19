@@ -53,7 +53,7 @@ ALTIJD op afspraak. U kan zelf een afspraak maken op het nummer: 0471/66 74 77
 Bellen voor een afspraak via het algemeen nummer 015/891010 en vragen naar een afspraak voor een covidtest voor vertrek. 
 U heeft hiervoor GEEN voorschrift nodig van ons. Er is voor de mensen die een negatieve coronatest moeten kunnen voorleggen om te kunnen reizen, geen tussenkomst van het RIZIV. Deze test kost €46,81.
 * Imelda: alle dagen. Afspraak maken via 015/50.51.11
-* Zorgteam De Maan, Tervuursesteenweg 241 te Mechelen. Iedere werkdag tussen 8u en 11u via www.medina.be of 024/63.25.15
+* Zorgteam De Maan, Tervuursesteenweg 241 te Mechelen. Iedere werkdag tussen 8u en 11u via [www.medina.be](https://www.medina.be) of 024/63.25.15
 * [Brussels Airport Test centrum](https://www.brusselsairport.be/nl/passengers/the-impact-of-the-coronavirus/covid-19-test-centre-at-brussels-airport)
 
 Indien U een CTPC-code nodig hebt om een afspraak te maken, kan u deze bij ons bekomen na telefonisch contact. 
