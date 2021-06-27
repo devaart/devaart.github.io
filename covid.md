@@ -47,23 +47,23 @@ Dat hangt af van de voorwaarden die worden opgelegd door het land waar u naar to
 
 Indien je een PCR-test nodig hebt om op vakantie of zakenreis te gaan, kan je terecht in onderstaande centra.
 
-* Coronapunt Mechelen: alle weedagen en weekend, na afspraak via doclr (www.coronapuntmechelen.be).
+* Coronapunt Mechelen: alle weedagen en weekend, na afspraak via doclr [www.coronapuntmechelen.be](www.coronapuntmechelen.be).
 * Labo van het AZ Sint-Maarten ziekenhuis Mechelen: weekdagen en weekend, na afspraak via 015/89.10.11 of via mynexuzhealth: 
-https://www.azsintmaarten.be/bijzondere-maatregelen-coronavirus-covid-19/pcr-test-buitenlandse-reis 
-* Imeldaziekenhuis te Bonheiden : enkel weekdagen, na afspraak via 015/50.51.11 of mynexuzhealth: https://www.imelda.be/algemeen-professionelen/nieuws/covid-19-screening-voor-reizigers 
-* De Maan: Medina labo Tervuursesteenweg 241, Mechelen: weekdagen, na afspraak op 02/4632515 of online:  https://www.zorgteam-demaan.be/coronacentrum/ 
-* Brussels Airport testcentrum te Zaventem: na afspraak via https://www.brusselsairport.be/nl/passengers/the-impact-of-the-coronavirus/covid-19-test-centre-at-brussels-airport  
-* Eurofins testcentrum Putte: Mechelsesteenweg 604 in Putte (aparte ingang naast het vaccinatiecentrum van Putte) : weekdagen en zaterdag na afspraak via  https://www.eurofins-labovanpoucke.com/nl/covid-19/COVID-19-PCR-test 
-* Somedi te Heist-op-den-Berg: https://somedi.be/pre-travel-covid-19-wisser 
-* Prikcentrum van het AML labo, Koningin Astridlaan 51 te Mechelen: weekdagen en op zaterdag, afspraak via 0471/667477 of online https://sonicgenetics.be 
+[https://www.azsintmaarten.be/bijzondere-maatregelen-coronavirus-covid-19/pcr-test-buitenlandse-reis](https://www.azsintmaarten.be/bijzondere-maatregelen-coronavirus-covid-19/pcr-test-buitenlandse-reis)
+* Imeldaziekenhuis te Bonheiden : enkel weekdagen, na afspraak via 015/50.51.11 of mynexuzhealth: [https://www.imelda.be/algemeen-professionelen/nieuws/covid-19-screening-voor-reizigers](https://www.imelda.be/algemeen-professionelen/nieuws/covid-19-screening-voor-reizigers). 
+* De Maan: Medina labo Tervuursesteenweg 241, Mechelen: weekdagen, na afspraak op 02/4632515 of online:  [https://www.zorgteam-demaan.be/coronacentrum/](https://www.zorgteam-demaan.be/coronacentrum/).
+* Brussels Airport testcentrum te Zaventem: na afspraak via [https://www.brusselsairport.be/nl/passengers/the-impact-of-the-coronavirus/covid-19-test-centre-at-brussels-airport](https://www.brusselsairport.be/nl/passengers/the-impact-of-the-coronavirus/covid-19-test-centre-at-brussels-airport).  
+* Eurofins testcentrum Putte: Mechelsesteenweg 604 in Putte (aparte ingang naast het vaccinatiecentrum van Putte) : weekdagen en zaterdag na afspraak via  [https://www.eurofins-labovanpoucke.com/nl/covid-19/COVID-19-PCR-test](https://www.eurofins-labovanpoucke.com/nl/covid-19/COVID-19-PCR-test).
+* Somedi te Heist-op-den-Berg: [https://somedi.be/pre-travel-covid-19-wisser](https://somedi.be/pre-travel-covid-19-wisser).
+* Prikcentrum van het AML labo, Koningin Astridlaan 51 te Mechelen: weekdagen en op zaterdag, afspraak via 0471/667477 of online [https://sonicgenetics.be](https://sonicgenetics.be).
 
-Vanaf 26 juni zal je via www.mijngezondheid.belgie.be maximum 2 codes kunnen aanvragen voor een gratis test. Opgelet: deze gratis CTPC-code blijft maar 10 dagen geldig! Maak deze dus niet te vroeg aan! Met die code kan je online een afspraak maken bij bovenstaande centra. Die codes kan je dus niet via ons verkrijgen. Wij kunnen enkel een code geven voor een test owv medische redenen (symptomen, hoogrisicocontact, ziekenhuisopname).
+Vanaf 26 juni zal je via [www.mijngezondheid.belgie.be](www.mijngezondheid.belgie.be) maximum 2 codes kunnen aanvragen voor een gratis test. Opgelet: deze gratis CTPC-code blijft maar 10 dagen geldig! Maak deze dus niet te vroeg aan! Met die code kan je online een afspraak maken bij bovenstaande centra. Die codes kan je dus niet via ons verkrijgen. Wij kunnen enkel een code geven voor een test owv medische redenen (symptomen, hoogrisicocontact, ziekenhuisopname).
 
 #### Wat moet u doen bij terugkeer van een reis?
 
-Bij terugkeer uit vakantie moet het PLF-formulier worden ingevuld worden. Indien een test vereist is zal je een code ontvangen en kan je een afspraak maken op www.coronapuntmechelen.be
- 
-Voor meer info omtrent de voorwaarden van jouw reisbestemming (vb. hoe oud mag mijn PCR-test zijn?)  kan je terecht op https://www.info-coronavirus.be/nl/.
+Bij terugkeer uit vakantie moet het PLF-formulier worden ingevuld worden. Indien een test vereist is zal je een code ontvangen en kan je een afspraak maken op [https://www.coronapuntmechelen.be](https://www.coronapuntmechelen.be).
+
+Voor meer info omtrent de voorwaarden van jouw reisbestemming (vb. hoe oud mag mijn PCR-test zijn?)  kan je terecht op [https://www.info-coronavirus.be/nl/](https://www.info-coronavirus.be/nl/).
 
 ### Interessante links
 
