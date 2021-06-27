@@ -7,11 +7,17 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
+### Nieuws: Zwangerschap dokter Sofie Van Tongelen
+
+Dr. Sofie Van Tongelen is in blijde verwachting van haar vierde kindje en zal afwezig zijn van 12 juli tot 2 november.
+
+Dr. Matilde Hens zal de vervanging doen, zij start op 19 juli. Dr. Hens heeft toegang tot alle patiëntendossiers, zij zal dus goed op de hoogte zijn van uw gezondheidssituatie. Ons teamoverleg zal er eveneens voor zorgen dat zij snel is ingewerkt.
+
 ### Nieuws: PCR Covid-test voor reis
 
 [Meer informatie over de noodzakelijke PCR Covid-test voor reizen kan je terugvinden op de Covid info pagina](/covid)
 
-### NIEUWS: psychologe in onze praktijk.
+### Nieuws: psychologe in onze praktijk.
 
 Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze praktijk. Zij stelt zich hieronder graag zelf voor:
 
