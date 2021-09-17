@@ -68,6 +68,31 @@ Voor uitgebreide vragen maakt u best een afspraak zodat we ruim de tijd hebben.
 
 Bij dringende medische zaken zijn wij uiteraard ook buiten dit uur bereikbaar.
 
+### <a name="griep">GRIEPVACCINATIES 2021-2022</a>
+
+Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). Iedereen ouder dan 50 jaar kan vanaf 1 oktober het vaccin zonder voorschrift bij de apotheker ophalen. Bent u jonger dan 50 jaar en behoort u tot de risicogroepen (zie hieronder voor prioritaire groepen) dan kan u het voorschrift via mail aanvragen.
+
+Het ideale moment voor vaccinatie is tussen midden oktober en midden december. Dit jaar voorzien wij 2 vaccinatiemomenten die zullen doorgaan in de turnzaal van school DE BEEMDEN, Stuivenbergbaan 135. Daar beschikken we over voldoende ruimte om alle covid-regels in acht te nemen.
+
+Voor het maken van een afspraak op 1 van onze vaccinatiemomenten, kan u vanaf 1 oktober elke dag telefonisch terecht bij onze praktijkassistente tussen 8u30 en 11u30 (keuzemenu 1).
+
+Vaccinatiemomenten in turnzaal De BEEMDEN:
+
+- zaterdag 06 november 2021 van 14u tot 16u
+- zaterdag 13 november 2021 van 14u tot 16u GRIEPVACCINATIES 2021-2022
+
+#### Prioritaire groepen
+
+- Groep 1:
+  - personen met een risico op complicaties: zwangere vrouwen, chronische zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een lever- of nierziekte of een spierziekte
+  - personen met een leeftijd > 65 jaar
+  - personen die verblijven in een instelling
+  - personen onder langdurige aspirinetherapie)
+- Groep 2: personen werkzaam in de gezondheidssector
+- Groep 3: personen die onder hetzelfde dak wonen als groep 1 of die zorg dragen voor kinderen jonger dan 6 maanden
+
+Ook vanaf 50 jaar is het zeker zinvol zijn om u te laten vaccineren.
+
 ### <a name="bancontact">Bancontact</a>
 
 In onze praktijk kan U met bancontact betalen. Om veiligheidsredenen geniet dit ook onze voorkeur. 

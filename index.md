@@ -19,11 +19,7 @@ Voor het bespreken van resultaten kan u terecht tijdens ons beluurtje tussen 12u
 
 ### GRIEPVACCINATIES 2021-2022
 
-Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). Iedereen ouder dan 50 jaar kan vanaf 1 oktober het vaccin zonder voorschrift bij de apotheker ophalen. Bent u jonger dan 50 jaar en behoort u tot de risicogroep dan kan u het voorschrift via mail aanvragen.
-
-Het ideale moment voor vaccinatie is tussen midden oktober en midden december. Dit jaar voorzien wij 2 vaccinatiemomenten die zullen doorgaan in de turnzaal van school DE BEEMDEN, Stuivenbergbaan 135. Daar beschikken we over voldoende ruimte om alle covid-regels in acht te nemen.
-
-Voor het maken van een afspraak op 1 van onze vaccinatiemomenten, kan u vanaf 1 oktober elke dag telefonisch terecht bij onze praktijkassistente tussen 8u30 en 11u30 (keuzemenu 1).
+Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. Meer uitleg onder vind je [hier](praktischeinfo.html#griep).
 
 Vaccinatiemomenten in turnzaal De BEEMDEN:
 
