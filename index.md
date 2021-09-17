@@ -7,13 +7,25 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
+### GRIEPVACCINATIES 2021-2022
+
+Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). Iedereen ouder dan 50 jaar en jongere risicopersonen kunnen vanaf 1 oktober het vaccin zonder voorschrift bij de apotheker ophalen.
+
+Het ideale moment voor vaccinatie is tijdens de maand november. Dit jaar voorzien wij 2 vaccinatiemomenten die zullen doorgaan in de turnzaal van school DE BEEMDEN, Stuivenbergbaan 135. Daar beschikken we over voldoende ruimte om alle covid-regels in acht te nemen. 
+
+Voor het maken van een afspraak op 1 van onze vaccinatiemomenten, kan u vanaf 1 oktober elke dag telefonisch terecht bij onze praktijkassistente tussen 8u30 en 11u30 (keuzemenu 1).
+
+Vaccinatiemomenten in turnzaal De BEEMDEN:
+
+- zaterdag 06 november 2021 van 14u tot 16u
+- zaterdag 13 november 2021 van 14u tot 16u
+
+
 ### Nieuws: Zwangerschap dokter Sofie Van Tongelen
 
 Dr. Sofie Van Tongelen is op 19/07/’21 trotse mama geworden van haar 4de zoontje, Bob. Mama en zoon stellen het prima. Vanaf 2 november zal Dr. Van Tongelen terug de consultaties hervatten. Tijdens haar afwezigheid kan U terecht bij haar vervangster, Dr. Matilde Hens, die toegang heeft tot alle patiëntendossiers. 
 
-### Nieuws: online afspraken
 
-Door de afwezigheid van Dr. Van Tongelen is het voor de andere collega’s wat drukker zodat het kan zijn dat U in de online agenda niet onmiddellijk een vrije plaats vindt om een afspraak te maken. Aarzel niet om ons te bellen voor dringende vragen of problemen waarmee U graag sneller langskomt, zodat we samen kunnen bekijken wat er mogelijk is. 
 
 ### Nieuws: afscheid haio Dr. Rosiers en welkom haio Dr. Vangrunderbeek
 
