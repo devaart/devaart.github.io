@@ -9,7 +9,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 ### Update Telefoonsysteem
 
-Om de consultatie telefoonvrij te maken en de wachttijden te verminderen, zal u vanaf 20 september 2021 een keuzemenu te horen krijgen bij het bellen naar ons praktijknummer 015/48.03.03.
+Om de consultatie telefoonvrij te maken en de wachttijden te verminderen, zal u vanaf 20 september 2021 een keuzemenu te horen krijgen bij het bellen naar ons praktijknummer <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>.
 
 - DRUK 1 voor het maken van een afspraak indien dit online niet lukt: u wordt dan doorgeschakeld met onze praktijkassistente
 - DRUK 2 voor zeer dringende gevallen of indien u een andere zorgverlener bent: u wordt dan doorverbonden met een arts
