@@ -79,7 +79,7 @@ Voor het maken van een afspraak op 1 van onze vaccinatiemomenten, kan u vanaf 1 
 Vaccinatiemomenten in turnzaal De BEEMDEN:
 
 - zaterdag 06 november 2021 van 14u tot 16u
-- zaterdag 13 november 2021 van 14u tot 16u GRIEPVACCINATIES 2021-2022
+- zaterdag 13 november 2021 van 14u tot 16u
 
 #### Prioritaire groepen
 

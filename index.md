@@ -19,7 +19,7 @@ Voor het bespreken van resultaten kan u terecht tijdens ons beluurtje tussen 12u
 
 ### GRIEPVACCINATIES 2021-2022
 
-Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. Meer uitleg onder vind je [hier](praktischeinfo.html#griep).
+Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. Meer uitleg hierover vind je [hier](praktischeinfo.html#griep).
 
 Vaccinatiemomenten in turnzaal De BEEMDEN:
 
