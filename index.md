@@ -7,6 +7,16 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
+### Update Telefoonsysteem
+
+Om de consultatie telefoonvrij te maken en de wachttijden te verminderen, zal u vanaf 20 september 2021 een keuzemenu te horen krijgen bij het bellen naar ons praktijknummer 015/48.03.03.
+
+- DRUK 1 voor het maken van een afspraak indien dit online niet lukt: u wordt dan doorgeschakeld met onze praktijkassistente
+- DRUK 2 voor zeer dringende gevallen of indien u een andere zorgverlener bent: u wordt dan doorverbonden met een arts
+- DRUK 3 indien u wenst dat wij u op een later tijdstip terugbellen (niet voor privé-nummers)
+
+Voor het bespreken van resultaten kan u terecht tijdens ons beluurtje tussen 12u en 13u.
+
 ### GRIEPVACCINATIES 2021-2022
 
 Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). Iedereen ouder dan 50 jaar en jongere risicopersonen kunnen vanaf 1 oktober het vaccin zonder voorschrift bij de apotheker ophalen.
@@ -20,20 +30,13 @@ Vaccinatiemomenten in turnzaal De BEEMDEN:
 - zaterdag 06 november 2021 van 14u tot 16u
 - zaterdag 13 november 2021 van 14u tot 16u
 
-
 ### Nieuws: Zwangerschap dokter Sofie Van Tongelen
 
 Dr. Sofie Van Tongelen is op 19/07/’21 trotse mama geworden van haar 4de zoontje, Bob. Mama en zoon stellen het prima. Vanaf 2 november zal Dr. Van Tongelen terug de consultaties hervatten. Tijdens haar afwezigheid kan U terecht bij haar vervangster, Dr. Matilde Hens, die toegang heeft tot alle patiëntendossiers. 
 
-
-
 ### Nieuws: afscheid haio Dr. Rosiers en welkom haio Dr. Vangrunderbeek
 
 Eind september nemen wij afscheid van Dr. Lise Rosiers, die het laatste jaar van haar opleiding tot huisarts voltooide in onze huisartsenpraktijk. Vanaf oktober verwelkomen wij Dr. Ans Vangrunderbeek, die enkele jaren geleden reeds stagiaire was in onze praktijk. Ook Dr. Vangrunderbeek zal het laatste jaar van haar opleiding tot huisarts in onze praktijk doorbrengen.
-
-### Nieuws: PCR Covid-test voor reis
-
-[Meer informatie over de noodzakelijke PCR Covid-test voor reizen kan je terugvinden op de Covid info pagina](/covid)
 
 ### Nieuws: psychologe in onze praktijk
 
