@@ -26,9 +26,13 @@ Vaccinatiemomenten in turnzaal De BEEMDEN:
 - zaterdag 06 november 2021 van 14u tot 16u
 - zaterdag 13 november 2021 van 14u tot 16u
 
+### Nieuws: versterking wintermaanden
+
+Gedurende de wintermaanden komt Dr. Stefanie Andries onze praktijk versterken. Zij studeerde af aan de KU Leuven in 2012 en is sindsdien werkzaam als huisarts.
+
 ### Nieuws: Zwangerschap dokter Sofie Van Tongelen
 
-Dr. Sofie Van Tongelen is op 19/07/’21 trotse mama geworden van haar 4de zoontje, Bob. Mama en zoon stellen het prima. Vanaf 2 november zal Dr. Van Tongelen terug de consultaties hervatten. Tijdens haar afwezigheid kan U terecht bij haar vervangster, Dr. Matilde Hens, die toegang heeft tot alle patiëntendossiers. 
+Dr. Sofie Van Tongelen is op 19/07/’21 trotse mama geworden van haar 4de zoontje, Bob. Mama en zoon stellen het prima. Vanaf 2 november zal Dr. Van Tongelen terug de consultaties hervatten. Tijdens haar afwezigheid kan U terecht bij haar vervangster, Dr. Matilde Hens, die toegang heeft tot alle patiëntendossiers.
 
 ### Nieuws: afscheid haio Dr. Rosiers en welkom haio Dr. Vangrunderbeek
 
