@@ -26,9 +26,9 @@ Vaccinatiemomenten in turnzaal De BEEMDEN:
 - zaterdag 06 november 2021 van 14u tot 16u
 - zaterdag 13 november 2021 van 14u tot 16u
 
-### Nieuws: versterking wintermaanden
+### Nieuws: tijdelijke versterking van het artsenteam
 
-Gedurende de wintermaanden komt Dr. Stefanie Andries onze praktijk versterken. Zij studeerde af aan de KU Leuven in 2012 en is sindsdien werkzaam als huisarts.
+Vanaf 18 oktober komt Dr. Stefanie Andries onze praktijk versterken gedurende enkele maanden. Zij studeerde af aan de KU Leuven in 2012 en is sindsdien werkzaam als huisarts.
 
 ### Nieuws: Zwangerschap dokter Sofie Van Tongelen
 
