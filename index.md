@@ -7,49 +7,38 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### Update Telefoonsysteem
+### Nieuws: Kerstvakantie
 
-Om de consultatie telefoonvrij te maken en de wachttijden te verminderen, zal u vanaf 20 september 2021 een keuzemenu te horen krijgen bij het bellen naar ons praktijknummer <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>.
+Tijdens de kerst -en nieuwjaarsperiode blijft de praktijk open en kan je ten allen tijd terecht bij één van onze artsen.  Consultaties blijven gewoon doorlopen zodoende jou zo goed mogelijk van dienst te kunnen zijn.
 
-- DRUK 1 voor het maken van een afspraak indien dit online niet lukt: u wordt dan doorgeschakeld met onze praktijkassistente
-- DRUK 2 voor zeer dringende gevallen of indien u een andere zorgverlener bent: u wordt dan doorverbonden met een arts
-- DRUK 3 indien u wenst dat wij u op een later tijdstip terugbellen (niet voor privé-nummers)
+### Nieuws: Tijdelijke vervanging praktijkassistente
 
-Voor het bespreken van resultaten kan u terecht tijdens ons beluurtje tussen 12u en 13u.
+Onze praktijkassistente Marijke Henderickx is jammer genoeg al een tijdje buiten strijd. Wij hopen dat we haar snel terug mogen verwelkomen. Intussen helpt Liesbet Van Lysebeth ons uit de nood en neemt zij tijdelijk de taken van Marijke over. 
 
-### GRIEPVACCINATIES 2021-2022
+### Wistjedatjes boosterprik
 
-Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. Meer uitleg hierover vind je [hier](praktischeinfo.html#griep).
+- Iedereen 18 jaar en ouder krijgt een herhalings- of boostervaccinatie aangeboden. De volgorde van oproeping, hangt af van de tijd tussen de basisvaccinatie en de boosterprik. Meer info vind je hier. https://www.laatjevaccineren.be/volgorde-van-vaccineren-vaccinatiestrategie
 
-Vaccinatiemomenten in turnzaal De BEEMDEN:
+- De boosterprik heeft geen invloed op het griepvaccin en omgekeerd. Er dient dus geen tijd gelaten te worden tussen het griepvaccin en de boosterprik, of andersom.
 
-- zaterdag 06 november 2021 van 14u tot 16u
-- zaterdag 13 november 2021 van 14u tot 16u
+- Ben je ziek, stel de afspraak van de boostervaccinatie uit tot je volledig genezen bent.
+
+- Ben je positief getest (PCR), dan dient de boosterprik uitgesteld te worden tot 14 dagen na genezing van de corona-symptomen, of minimaal 14 dagen na de positieve test indien er geen klachten werden ervaren. Je kan ook langer wachten om te vaccineren na een infectie.
+
+- De boosterprik heeft geen invloed op het resultaat van een PCR test. Laat je een PCR test uitvoeren na de boosterprik (zelfs daags nadien), dan krijg je in elk geval een correct testresultaat en zal dit niet beïnvloed worden door het boostervaccin.
 
 ### Nieuws: tijdelijke versterking van het artsenteam
 
-Vanaf 18 oktober komt Dr. Stefanie Andries onze praktijk versterken gedurende enkele maanden. Zij studeerde af aan de KU Leuven in 2012 en is sindsdien werkzaam als huisarts.
+Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij helpt ons mee om de drukke wintermaanden te overbruggen. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen. Dr. Andries studeerde in 2012 af aan de KUL en is sindsdien werkzaam als huisarts.
 
-### Nieuws: Zwangerschap dokter Sofie Van Tongelen
 
-Dr. Sofie Van Tongelen is op 19/07/’21 trotse mama geworden van haar 4de zoontje, Bob. Mama en zoon stellen het prima. Vanaf 2 november zal Dr. Van Tongelen terug de consultaties hervatten. Tijdens haar afwezigheid kan U terecht bij haar vervangster, Dr. Matilde Hens, die toegang heeft tot alle patiëntendossiers.
+### Haio Dr. Vangrunderbeek
 
-### Nieuws: afscheid haio Dr. Rosiers en welkom haio Dr. Vangrunderbeek
+Sinds oktober is Dr. Vangrunderbeek werkzaam in onze erkende opleidingpraktijk. Zij zal het laatste jaar van haar opleiding bij ons voltooien. Sommigen onder jullie hebben haar misschien reeds ontmoet, daar ze enkele jaren geleden reeds stage deed in onze praktijk.
 
-Eind september nemen wij afscheid van Dr. Lise Rosiers, die het laatste jaar van haar opleiding tot huisarts voltooide in onze huisartsenpraktijk. Vanaf oktober verwelkomen wij Dr. Ans Vangrunderbeek, die enkele jaren geleden reeds stagiaire was in onze praktijk. Ook Dr. Vangrunderbeek zal het laatste jaar van haar opleiding tot huisarts in onze praktijk doorbrengen.
+### Nieuws: Psychologe in onze praktijk
 
-### Nieuws: psychologe in onze praktijk
-
-Vanaf 11/02/'21 start Leonoor Van Dongen als zelfstandig psychologe in onze praktijk. Zij stelt zich hieronder graag zelf voor:
-
-> Zie je geen uitweg meer? Loop je helemaal vast? Heb je het gevoel dat je er niet alleen uitgeraakt? Of heb je nood aan een luisterend oor? Iedereen heeft wel eens moeilijkheden of zit met zorgen in zijn/haar hoofd. Soms krijg je dit zelf opgelost, maar soms kan je hier wat hulp bij gebruiken. Herken jij jezelf hier in? Dan kan ondersteuning net zijn wat jij nodig hebt.
->
-> Ik ben Leonoor en wil jou de nodige ondersteuning bieden. Vanaf 11/2 start ik op binnen Huisartsenpraktijk De Vaart als zelfstandig psycholoog. Ik ben in 2017 afgestudeerd als klinisch psycholoog aan de KU Leuven. Momenteel volg ik de opleiding permanente vorming in de eerstelijns psychologische zorg aan de U. Gent. Voor meer informatie, vragen of aanmeldingen kan je mij bereiken op vandongenleonoor@gmail.com.
->
-> Groetjes
-> Leonoor
-
-<img src="/images/photos/vrijgeweidestraat.jpg" width="30%" align="right"/>
+Vanaf februari 2021 hebben wij onze diensten uitgebreid en kan je in onze praktijk terecht bij zelfstandig psychologe Leonoor Van Dongen. Voor meer informatie, vragen of aanmeldingen, kan je Leonoor bereiken op vandongenleonoor@gmail.com
 
 <br>
 
