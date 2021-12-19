@@ -13,20 +13,7 @@ Tijdens de kerst -en nieuwjaarsperiode blijft de praktijk open en kan je ten all
 
 ### Nieuws: Tijdelijke vervanging praktijkassistente
 
-Onze praktijkassistente Marijke Henderickx is jammer genoeg al een tijdje buiten strijd. Wij hopen dat we haar snel terug mogen verwelkomen. Intussen helpt Liesbet Van Lysebeth ons uit de nood en neemt zij tijdelijk de taken van Marijke over. 
-
-### Wistjedatjes boosterprik
-
-- Iedereen 18 jaar en ouder krijgt een herhalings- of boostervaccinatie aangeboden. De volgorde van oproeping, hangt af van de tijd tussen de basisvaccinatie en de boosterprik. Meer info vind je hier. https://www.laatjevaccineren.be/volgorde-van-vaccineren-vaccinatiestrategie
-
-- De boosterprik heeft geen invloed op het griepvaccin en omgekeerd. Er dient dus geen tijd gelaten te worden tussen het griepvaccin en de boosterprik, of andersom.
-
-- Ben je ziek, stel de afspraak van de boostervaccinatie uit tot je volledig genezen bent.
-
-- Ben je positief getest (PCR), dan dient de boosterprik uitgesteld te worden tot 14 dagen na genezing van de corona-symptomen, of minimaal 14 dagen na de positieve test indien er geen klachten werden ervaren. Je kan ook langer wachten om te vaccineren na een infectie.
-
-- De boosterprik heeft geen invloed op het resultaat van een PCR test. Laat je een PCR test uitvoeren na de boosterprik (zelfs daags nadien), dan krijg je in elk geval een correct testresultaat en zal dit niet beïnvloed worden door het boostervaccin.
-
+Onze praktijkassistente Marijke Henderickx is jammer genoeg al een tijdje buiten strijd. Wij hopen dat we haar snel terug mogen verwelkomen. Intussen helpt Liesbet Van Lysebeth ons uit de nood en neemt zij tijdelijk de taken van Marijke over.
 ### Nieuws: tijdelijke versterking van het artsenteam
 
 Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij helpt ons mee om de drukke wintermaanden te overbruggen. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen. Dr. Andries studeerde in 2012 af aan de KUL en is sindsdien werkzaam als huisarts.

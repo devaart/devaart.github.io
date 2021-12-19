@@ -65,6 +65,18 @@ Bij terugkeer uit vakantie moet het PLF-formulier worden ingevuld worden. Indien
 
 Voor meer info omtrent de voorwaarden van jouw reisbestemming (vb. hoe oud mag mijn PCR-test zijn?)  kan je terecht op [https://www.info-coronavirus.be/nl/](https://www.info-coronavirus.be/nl/).
 
+### Wistjedatjes boosterprik
+
+* Iedereen 18 jaar en ouder krijgt een herhalings- of boostervaccinatie aangeboden. De volgorde van oproeping, hangt af van de tijd tussen de basisvaccinatie en de boosterprik. Meer info vind je hier. https://www.laatjevaccineren.be/volgorde-van-vaccineren-vaccinatiestrategie
+
+* De boosterprik heeft geen invloed op het griepvaccin en omgekeerd. Er dient dus geen tijd gelaten te worden tussen het griepvaccin en de boosterprik, of andersom.
+
+* Ben je ziek, stel de afspraak van de boostervaccinatie uit tot je volledig genezen bent.
+
+* Ben je positief getest (PCR), dan dient de boosterprik uitgesteld te worden tot 14 dagen na genezing van de corona-symptomen, of minimaal 14 dagen na de positieve test indien er geen klachten werden ervaren. Je kan ook langer wachten om te vaccineren na een infectie.
+
+* De boosterprik heeft geen invloed op het resultaat van een PCR test. Laat je een PCR test uitvoeren na de boosterprik (zelfs daags nadien), dan krijg je in elk geval een correct testresultaat en zal dit niet beïnvloed worden door het boostervaccin.
+
 ### Interessante links
 
 * [https://www.info-coronavirus.be/nl/](https://www.info-coronavirus.be/nl/): Alle informatie van de overheid over het coronavirus (b.v. Vaccinatie, Testen op het coronavirus, Contactopvolging, Quarantaine en isolatie, Ik ben ziek of ken iemand die ziek is).
