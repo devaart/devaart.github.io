@@ -11,9 +11,6 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 Tijdens de kerst -en nieuwjaarsperiode blijft de praktijk open en kan je ten allen tijd terecht bij één van onze artsen.  Consultaties blijven gewoon doorlopen zodoende jou zo goed mogelijk van dienst te kunnen zijn.
 
-### Nieuws: Tijdelijke vervanging praktijkassistente
-
-Onze praktijkassistente Marijke Henderickx is jammer genoeg al een tijdje buiten strijd. Wij hopen dat we haar snel terug mogen verwelkomen. Intussen helpt Liesbet Van Lysebeth ons uit de nood en neemt zij tijdelijk de taken van Marijke over.
 ### Nieuws: tijdelijke versterking van het artsenteam
 
 Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij helpt ons mee om de drukke wintermaanden te overbruggen. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen. Dr. Andries studeerde in 2012 af aan de KUL en is sindsdien werkzaam als huisarts.
