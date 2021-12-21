@@ -15,7 +15,6 @@ Tijdens de kerst -en nieuwjaarsperiode blijft de praktijk open en kan je ten all
 
 Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij helpt ons mee om de drukke wintermaanden te overbruggen. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen. Dr. Andries studeerde in 2012 af aan de KUL en is sindsdien werkzaam als huisarts.
 
-
 ### Haio Dr. Vangrunderbeek
 
 Sinds oktober is Dr. Vangrunderbeek werkzaam in onze erkende opleidingpraktijk. Zij zal het laatste jaar van haar opleiding bij ons voltooien. Sommigen onder jullie hebben haar misschien reeds ontmoet, daar ze enkele jaren geleden reeds stage deed in onze praktijk.
