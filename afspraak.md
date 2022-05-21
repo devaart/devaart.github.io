@@ -5,22 +5,7 @@
 
 ### Nieuws: online afspraken
 
-Door de afwezigheid van Dr. Van Tongelen is het voor de andere collega’s wat drukker zodat het kan zijn dat U in de online agenda niet onmiddellijk een vrije plaats vindt om een afspraak te maken. Aarzel niet om ons te bellen voor dringende vragen of problemen waarmee U graag sneller langskomt, zodat we samen kunnen bekijken wat er mogelijk is. 
-
-### COVID regels afspraken
-
-Vanaf heden kunnen er terug online afspraken gemaakt worden. 
-
-**Indien u volgende (mogelijks COVID-19 gerelateerde) klachten heeft komt u nog steeds NIET naar de raadpleging.**
-
-* koorts
-* hoesten
-* kortademigheid
-* keelpijn
-* snotteren
-* diarree
-
-Dit zowel voor volwassenen als kinderen. In dat geval neemt u telefonisch contact op met de praktijk. We voorzien hiervoor een specifieke infectieraadpleging. 
+Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afspraak te maken, aarzel dan niet om ons te bellen voor dringende vragen of problemen waarmee U graag sneller langskomt, zodat we samen kunnen bekijken wat er mogelijk is. 
 
 **Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE AFSPRAKEN:**
 
