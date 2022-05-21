@@ -7,13 +7,17 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### Nieuws: Kerstvakantie
-
-Tijdens de kerst -en nieuwjaarsperiode blijft de praktijk open en kan je ten allen tijd terecht bij één van onze artsen.  Consultaties blijven gewoon doorlopen zodoende jou zo goed mogelijk van dienst te kunnen zijn.
 
 ### Nieuws: tijdelijke versterking van het artsenteam
 
-Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij helpt ons mee om de drukke wintermaanden te overbruggen. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen. Dr. Andries studeerde in 2012 af aan de KUL en is sindsdien werkzaam als huisarts.
+Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij zal aanwezig blijven tot begin augustus. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen.
+Dr. Andries studeerde af in 2012 aan de K.U.Leuven en is sindsdien werkzaam als huisarts.
+
+### Vakantieregeling van de artsen
+
+- Dr. Vangrunderbeek: 20/6 tem 24/6
+- Dr. Van Tongelen: 4/7 tem 31/7
+- Dr. Decamps: 1/8 tem 19/8 en 16/9 tem 22/9
 
 ### Haio Dr. Vangrunderbeek
 
