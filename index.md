@@ -7,7 +7,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### Nieuws: versterking van het artsenteam met dr. Steenwegen
+### Nieuws: versterking van het artsenteam met Dr. Steenwegen
 
 Met veel plezier zal ik vanaf september 2022 huisartsenteam De Vaart versterken.
 
@@ -15,7 +15,7 @@ In 2018 studeerde ik af na een opleiding tot huisarts in Mechelen en Elewijt. De
 
 Mijn bijzondere interesses gaan uit naar pediatrie, zwangerschapsbegeleiding, diabetes en preventieve geneeskunde
 
-### Nieuws: tijdelijke versterking van het artsenteam met dr. Andries
+### Nieuws: tijdelijke versterking van het artsenteam met Dr. Andries
 
 Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij zal aanwezig blijven tot begin augustus. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen.
 Dr. Andries studeerde af in 2012 aan de K.U.Leuven en is sindsdien werkzaam als huisarts.
