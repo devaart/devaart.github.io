@@ -7,6 +7,40 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
+### Haio Dr. Van Roosbroeck
+
+In oktober start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij vervangt Dr. Ans Vangrunderveek en zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. Dr. Vangrunderbeek rondde haar opleiding tot huisarts bij ons af. Wij wensen haar veel succes met haar verdere toekomstplannen.
+
+### Griepvaccinatie  2022-2023
+
+Dit jaar gaan de vaccinaties door in de praktijk zelf.
+
+U kan vanaf 17/10 elke weekdag tussen 10u en 11u langskomen met het vaccin, zonder afspraak. 
+Voor patiënten die onmogelijk overdag kunnen langskomen zijn er 2 vaccinatiemomenten voorzien op  7/11 en 14/11, telkens van 19u30 en 20u30. Deze uren zijn voorbehouden voor mensen die zich enkel ’s avonds kunnen vrij maken.
+
+Tijdens deze consultatie is er geen tijd voor andere medische problemen en worden geen
+voorschriften afgeleverd.
+
+Komt uw huisarts gewoonlijk op huisbezoek? Zorg er dan voor dat U het vaccin in huis heeft. Zo kan uw huisarts het vaccin bij het volgende bezoek toedienen.
+
+Belangrijk
+
+* Indien je tot een risicogroep behoort kan je zonder voorschrift het griepvaccin afhalen bij de apotheek. Risicogroepen:
+
+        * zwangere vrouwen
+        * chronisch zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een lever- nier- of een spierziekte
+        * personen ouder dan 65 jaar
+        * personen die verblijven in een instelling
+        * personen onder langdurige aspirinetherapie
+        * personen werkzaam in de gezondheidssector
+        * huisgenoten van zwangeren of chronisch zieke mensen
+        * personen die zorg dragen voor kinderen jonger dan 6 maanden
+
+Ook vanaf 50 jaar kan het zinvol zijn om u te laten vaccineren.
+
+* doe gemakkelijke kledij aan
+* indien u klachten heeft van koorts, hoest, ademhalingsproblemen, spierpijn, keelpijn, hoofdpijn, vermoeidheid, geur- en smaakverlies, verkoudheid, diarree mag u niet naar het prikmoment komen.
+
 ### Nieuws: versterking van het artsenteam met Dr. Steenwegen
 
 Met veel plezier zal ik vanaf september 2022 huisartsenteam De Vaart versterken.
@@ -14,21 +48,6 @@ Met veel plezier zal ik vanaf september 2022 huisartsenteam De Vaart versterken.
 In 2018 studeerde ik af na een opleiding tot huisarts in Mechelen en Elewijt. De voorbije 4 jaren was ik werkzaam in een groepspraktijk in Antwerpen, waar ik heel wat ervaring heb kunnen opdoen. Momenteel woon ik met mijn vriend Thomas en dochter Stella in Mechelen. Huisartsenpraktijk De Vaart voelt dus als een warme thuiskomst voor mij. Ik kijk er naar uit om in Mechelen te starten en jullie te leren kennen. 
 
 Mijn bijzondere interesses gaan uit naar pediatrie, zwangerschapsbegeleiding, diabetes en preventieve geneeskunde
-
-### Nieuws: tijdelijke versterking van het artsenteam met Dr. Andries
-
-Midden oktober 2021 kwam Dr. Andries onze praktijk versterken. Zij zal aanwezig blijven tot begin augustus. Op die manier kunnen we al onze patiënten tijdig en met de nodige zorg behandelen.
-Dr. Andries studeerde af in 2012 aan de K.U.Leuven en is sindsdien werkzaam als huisarts.
-
-### Vakantieregeling van de artsen
-
-- Dr. Vangrunderbeek: 20/6 tem 24/6
-- Dr. Van Tongelen: 4/7 tem 31/7
-- Dr. Decamps: 1/8 tem 19/8 en 16/9 tem 22/9
-
-### Haio Dr. Vangrunderbeek
-
-Sinds oktober is Dr. Vangrunderbeek werkzaam in onze erkende opleidingpraktijk. Zij zal het laatste jaar van haar opleiding bij ons voltooien. Sommigen onder jullie hebben haar misschien reeds ontmoet, daar ze enkele jaren geleden reeds stage deed in onze praktijk.
 
 ### Psychologe in onze praktijk
 
