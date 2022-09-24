@@ -7,41 +7,41 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### Haio Dr. Van Roosbroeck
+### Haio Dr. Arnout Van Roosbroeck
 
 In oktober start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij vervangt Dr. Ans Vangrunderveek en zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. Dr. Vangrunderbeek rondde haar opleiding tot huisarts bij ons af. Wij wensen haar veel succes met haar verdere toekomstplannen.
 
 ### Griepvaccinatie  2022-2023
 
-Dit jaar gaan de vaccinaties door in de praktijk zelf.
+Dit jaar gaan de vaccinaties door in onze praktijk.
 
 U kan vanaf 17/10 elke weekdag tussen 10u en 11u langskomen met het vaccin, zonder afspraak. 
-Voor patiënten die onmogelijk overdag kunnen langskomen zijn er 2 vaccinatiemomenten voorzien op  7/11 en 14/11, telkens van 19u30 en 20u30. Deze uren zijn voorbehouden voor mensen die zich enkel ’s avonds kunnen vrij maken.
+Voor patiënten die onmogelijk overdag kunnen langskomen zijn er 2 vaccinatiemomenten voorzien. Dit op  7/11 en 14/11, telkens van 19u30 en 20u30. Deze uren zijn voorbehouden voor mensen die zich enkel ’s avonds kunnen vrij maken.
 
-Tijdens deze consultatie is er geen tijd voor andere medische problemen en worden geen
+Tijdens deze consultatie is er geen tijd voor andere medische problemen en worden er geen
 voorschriften afgeleverd.
 
-Komt uw huisarts gewoonlijk op huisbezoek? Zorg er dan voor dat U het vaccin in huis heeft. Zo kan uw huisarts het vaccin bij het volgende bezoek toedienen.
+Komt uw huisarts gewoonlijk op huisbezoek? Zorg er dan voor dat U het vaccin in huis hebt. Zo kan uw huisarts het vaccin bij het volgende bezoek toedienen.
 
 Belangrijk
 
-* Indien je tot een risicogroep behoort kan je zonder voorschrift het griepvaccin afhalen bij de apotheek. Risicogroepen:
+* Indien je tot een risicogroep behoort, kan je zonder voorschrift het griepvaccin afhalen bij de apotheek. Risicogroepen:
 
-        * zwangere vrouwen
-        * chronisch zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een lever- nier- of een spierziekte
-        * personen ouder dan 65 jaar
-        * personen die verblijven in een instelling
-        * personen onder langdurige aspirinetherapie
-        * personen werkzaam in de gezondheidssector
-        * huisgenoten van zwangeren of chronisch zieke mensen
-        * personen die zorg dragen voor kinderen jonger dan 6 maanden
+  * zwangere vrouwen
+  * chronisch zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een leverziekte, nierziekte of een spierziekte
+  * personen ouder dan 65 jaar
+  * personen die verblijven in een instelling
+  * personen onder langdurige aspirinetherapie
+  * personen werkzaam in de gezondheidssector
+  * huisgenoten van zwangeren of chronisch zieke mensen
+  * personen die zorg dragen voor kinderen jonger dan 6 maanden
 
 Ook vanaf 50 jaar kan het zinvol zijn om u te laten vaccineren.
 
 * doe gemakkelijke kledij aan
 * indien u klachten heeft van koorts, hoest, ademhalingsproblemen, spierpijn, keelpijn, hoofdpijn, vermoeidheid, geur- en smaakverlies, verkoudheid, diarree mag u niet naar het prikmoment komen.
 
-### Nieuws: versterking van het artsenteam met Dr. Steenwegen
+### Nieuws: versterking van het artsenteam met Dr. Lore Steenwegen
 
 Met veel plezier zal ik vanaf september 2022 huisartsenteam De Vaart versterken.
 
