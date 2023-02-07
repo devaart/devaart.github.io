@@ -11,43 +11,13 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 In oktober start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij vervangt Dr. Ans Vangrunderveek en zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. Dr. Vangrunderbeek rondde haar opleiding tot huisarts bij ons af. Wij wensen haar veel succes met haar verdere toekomstplannen.
 
-### Griepvaccinatie  2022-2023
+### Nieuws: nieuwe vaste collega Dr. Ans Vangrunderbeek
 
-Dit jaar gaan de vaccinaties door in onze praktijk.
+Wegens een verhuis naar Hasselt om familiale redenen, nemen wij eind juni met heel veel spijt in het hart afscheid van Dr. Lore Steenwegen, die het voorbije jaar ons artsenteam met veel enthousiasme kwam versterken.
 
-U kan vanaf 17/10 elke weekdag tussen 10u en 11u langskomen met het vaccin, zonder afspraak. 
-Voor patiënten die onmogelijk overdag kunnen langskomen zijn er 2 vaccinatiemomenten voorzien. Dit op  7/11 en 14/11, telkens van 19u30 en 20u30. Deze uren zijn voorbehouden voor mensen die zich enkel ’s avonds kunnen vrij maken.
+Wij zijn heel blij te kunnen aankondigen dat de leegte opgevuld wordt door een bekend gezicht, Dr. Ans Vangrunderbeek. Zij stelt zichzelf hieronder nog eens voor:
 
-Tijdens deze consultatie is er geen tijd voor andere medische problemen en worden er geen
-voorschriften afgeleverd.
-
-Komt uw huisarts gewoonlijk op huisbezoek? Zorg er dan voor dat U het vaccin in huis hebt. Zo kan uw huisarts het vaccin bij het volgende bezoek toedienen.
-
-Belangrijk
-
-* Indien je tot een risicogroep behoort, kan je zonder voorschrift het griepvaccin afhalen bij de apotheek. Risicogroepen:
-
-  * zwangere vrouwen
-  * chronisch zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een leverziekte, nierziekte of een spierziekte
-  * personen ouder dan 65 jaar
-  * personen die verblijven in een instelling
-  * personen onder langdurige aspirinetherapie
-  * personen werkzaam in de gezondheidssector
-  * huisgenoten van zwangeren of chronisch zieke mensen
-  * personen die zorg dragen voor kinderen jonger dan 6 maanden
-
-Ook vanaf 50 jaar kan het zinvol zijn om u te laten vaccineren.
-
-* doe gemakkelijke kledij aan
-* indien u klachten heeft van koorts, hoest, ademhalingsproblemen, spierpijn, keelpijn, hoofdpijn, vermoeidheid, geur- en smaakverlies, verkoudheid, diarree mag u niet naar het prikmoment komen.
-
-### Nieuws: versterking van het artsenteam met Dr. Lore Steenwegen
-
-Met veel plezier zal ik vanaf september 2022 huisartsenteam De Vaart versterken.
-
-In 2018 studeerde ik af na een opleiding tot huisarts in Mechelen en Elewijt. De voorbije 4 jaren was ik werkzaam in een groepspraktijk in Antwerpen, waar ik heel wat ervaring heb kunnen opdoen. Momenteel woon ik met mijn vriend Thomas en dochter Stella in Mechelen. Huisartsenpraktijk De Vaart voelt dus als een warme thuiskomst voor mij. Ik kijk er naar uit om in Mechelen te starten en jullie te leren kennen. 
-
-Mijn bijzondere interesses gaan uit naar pediatrie, zwangerschapsbegeleiding, diabetes en preventieve geneeskunde
+Sommigen onder jullie zullen me nog herinneren als Huisarts-In-Opleiding (HAIO). In september 2022 studeerde ik af als huisarts. Daarna ben ik een aantal maanden gaan reizen om een stukje van de wereld te ontdekken. Maar het pleziert me enorm om vanaf midden februari het team huisartsen De Vaart te kunnen vervoegen. Ik ga ook nog even dokter Marie Lambrecht vervangen tijdens haar zwangerschapsrust, maar vanaf juli blijf ik definitief bij het huisartsenteam De Vaart. Ik kijk er alvast naar uit bekende gezichten terug te zien en nieuwe te leren kennen.
 
 ### Psychologe in onze praktijk
 
