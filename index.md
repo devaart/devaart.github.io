@@ -7,6 +7,26 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
+### Praktijkverpleegkundige
+
+Marijke, onze praktijkassistente, is al enkele jaren werkzaam in onze praktijk.
+
+Aangezien zij vroedvrouw/verpleegkundige van opleiding is zal zij vanaf heden ook verpleegkundige taken op zich nemen.
+
+Elke maandagnamiddag tussen 13u en 15u kan je bij haar terecht voor bloednames, vaccinaties, wondzorg,…
+
+Woensdagochtend kan je tussen 7u30 en 8u nuchtere bloednames laten afnemen.
+
+Afspraken hiervoor kunnen telefonisch gemaakt worden.
+
+### Voorschriften
+
+Vanaf heden zullen er geen voorschriften meer voorgeschreven worden na mail of telefonisch contact. Ook niet voor chronische medicatie.
+
+Gelieve dus steeds vóórr elke consultatie goed na te kijken welke medicatie u nodig heeft in de nabije toekomst.
+
+Indien u toch medicatie ontbreekt, vragen we om op consultatie te komen.
+
 ### Haio Dr. Arnout Van Roosbroeck
 
 In oktober start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij vervangt Dr. Ans Vangrunderveek en zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. Dr. Vangrunderbeek rondde haar opleiding tot huisarts bij ons af. Wij wensen haar veel succes met haar verdere toekomstplannen.
