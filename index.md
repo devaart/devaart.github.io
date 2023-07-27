@@ -9,9 +9,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 ### Praktijkverpleegkundige
 
-Marijke, onze praktijkassistente, is al enkele jaren werkzaam in onze praktijk.
-
-Aangezien zij vroedvrouw/verpleegkundige van opleiding is zal zij vanaf heden ook verpleegkundige taken op zich nemen.
+Marijke, onze praktijkassistente, is al enkele jaren werkzaam in onze praktijk. Aangezien zij vroedvrouw/verpleegkundige van opleiding is zal zij vanaf heden ook verpleegkundige taken op zich nemen.
 
 Elke maandagnamiddag tussen 13u en 15u kan je bij haar terecht voor bloednames, vaccinaties, wondzorg,…
 
@@ -29,7 +27,7 @@ Indien u toch medicatie ontbreekt, vragen we om op consultatie te komen.
 
 ### Haio Dr. Arnout Van Roosbroeck
 
-In oktober start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij vervangt Dr. Ans Vangrunderveek en zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. Dr. Vangrunderbeek rondde haar opleiding tot huisarts bij ons af. Wij wensen haar veel succes met haar verdere toekomstplannen.
+In oktober 2022 start Dr. Van Roosbroeck in onze erkende opleidingpraktijk. Hij zal het eerste anderhalf jaar van zijn opleiding bij ons voltooien. 
 
 ### Nieuws: nieuwe vaste collega Dr. Ans Vangrunderbeek
 
