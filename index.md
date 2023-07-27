@@ -45,6 +45,10 @@ Vanaf februari 2021 hebben wij onze diensten uitgebreid en kan je in onze prakti
 
 <br>
 
+Vanaf juni 2023 start ook Elisabeth Timmermans als psychologe in onze praktijk. Dr. Elisabeth Timmermans is klinisch psycholoog en auteur van het boek Liefde in tijden van Tinder. Ze behaalde in 2017 haar doctoraat in de sociale wetenschappen aan de KU Leuven en werkte daarna tot 2020 als postdoctoraal onderzoeker en universitair docent aan de Erasmus Universiteit Rotterdam. Ze publiceerde al meer dan 20 academische artikels over online daten en de impact van de media op seks en relaties. De passie voor haar onderzoek zorgde ervoor dat ze terug achter de schoolbanken kroop en in juli 2022 behaalde ze met grote onderscheiding haar master in de klinische psychologie. In september 2022 startte ze haar vierjarige opleiding tot cliëntgericht psychotherapeut. Naast haar werk als klinisch psycholoog in Elim (residentieel centrum voor psychotherapie) helpt ze in de praktijk mensen in hun zoektocht naar liefdevolle relaties met zichzelf en anderen. Daarnaast heeft ze ook ervaring met het begeleiden van mensen die worstelen met moeilijkheden als depressie, angst, onzekerheid en trauma.
+ 
+Voor meer informatie, vragen of aanmeldingen kan je Elisabeth bereiken op [timmermanselisabeth@gmail.com]. Meer informatie vind je ook op haar website [http://www.liefdeintijdenvantinder.be].
+
 ### Praktijkinfo
 
 <p>
