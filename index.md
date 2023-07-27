@@ -41,7 +41,7 @@ Sommigen onder jullie zullen me nog herinneren als Huisarts-In-Opleiding (HAIO).
 
 ### Psychologe in onze praktijk
 
-Vanaf februari 2021 hebben wij onze diensten uitgebreid en kan je in onze praktijk terecht bij zelfstandig psychologe Leonoor Van Dongen. Voor meer informatie, vragen of aanmeldingen, kan je Leonoor bereiken op vandongenleonoor@gmail.com
+Vanaf februari 2021 hebben wij onze diensten uitgebreid en kan je in onze praktijk terecht bij zelfstandig psychologe Leonoor Van Dongen. Voor meer informatie, vragen of aanmeldingen, kan je Leonoor bereiken op [vandongenleonoor@gmail.com](vandongenleonoor@gmail.com).
 
 <br>
 
