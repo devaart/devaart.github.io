@@ -37,7 +37,7 @@ Wij zijn heel blij te kunnen aankondigen dat de leegte opgevuld wordt door een b
 
 Sommigen onder jullie zullen me nog herinneren als Huisarts-In-Opleiding (HAIO). In september 2022 studeerde ik af als huisarts. Daarna ben ik een aantal maanden gaan reizen om een stukje van de wereld te ontdekken. Maar het pleziert me enorm om vanaf midden februari het team huisartsen De Vaart te kunnen vervoegen. Ik ga ook nog even dokter Marie Lambrecht vervangen tijdens haar zwangerschapsrust, maar vanaf juli blijf ik definitief bij het huisartsenteam De Vaart. Ik kijk er alvast naar uit bekende gezichten terug te zien en nieuwe te leren kennen.
 
-### Psychologe in onze praktijk
+### Psychologen in onze praktijk
 
 Vanaf februari 2021 hebben wij onze diensten uitgebreid en kan je in onze praktijk terecht bij zelfstandig psychologe Leonoor Van Dongen. Voor meer informatie, vragen of aanmeldingen, kan je Leonoor bereiken op [vandongenleonoor@gmail.com](vandongenleonoor@gmail.com).
 
