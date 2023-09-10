@@ -5,130 +5,249 @@
 <html lang="nl">
   <head>
     <meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="stylesheets/bootstrap.css" rel="stylesheet">
-   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<!-- own markup -->
-	<link rel="stylesheet" href="stylesheets/styles.css" />
-    
-	{% if page.keywords %}
-		<meta name="keywords" content="{{page.keywords | join: ','}}" />
-		{% else %}
-		<meta name="keywords" content="{{site.keywords | join: ','}}" />
-	{% endif %}
-	{% if page.description %}
-		<meta name="description" content="{{page.description}}" />
-		{% else %}
-		<meta name="description" content="{{site.description}}" />
-	{% endif %}
-    <meta name="robots" content="{{page.index}}INDEX,{{page.follow}}FOLLOW"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- own markup -->
+    <link rel="stylesheet" href="stylesheets/styles.css" />
+
+    {% if page.keywords %}
+      <meta name="keywords" content="{{page.keywords | join: ','}}" />
+    {% else %}
+      <meta name="keywords" content="{{site.keywords | join: ','}}" />
+    {% endif %}
+    {% if page.description %}
+      <meta name="description" content="{{page.description}}" />
+    {% else %}
+      <meta name="description" content="{{site.description}}" />
+    {% endif %}
+    <meta name="robots" content="{{page.index}}INDEX,{{page.follow}}FOLLOW" />
     <title>
-		{{site.main_title}} - {{page.title}}
-	</title>
-	
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      {{ site.main_title }} - {{ page.title }}
+    </title>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-  </head>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]--></head>
 
   <body>
-  	<div id="wrapper" >
-		<header>
-			<div class="row">
-				<div class="{{ grid_columns }} headerbar">
-					<img src="/images/header-bar.png" class="img-responsive"/>
-					<h1>Huisartsenpraktijk De Vaart</h1>
-				</div>
-			</div>
-		</header>
-		<section>
-			<nav class="row">
-				<div class="{{ grid_columns }} menubar">
-					<div class="btn-group btn-group-lg btn-group-justified hidden-xs">
-						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
-						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
-						<a href="covid.html" type="button" class="btn btn-default" id="menu_covid">Covid-19</a>
-						<a href="medewerkers.html" type="button" class="btn btn-default" id="menu_artsen">Wie is wie?</a>
-						<div class="btn-group btn-group-lg">
-							<a href="praktischeinfo.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktisch">Praktische info <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="praktischeinfo.html#praktijkvisie" id="praktisch#praktijkvisie">Praktijkvisie</a></li>
-									<li><a href="praktischeinfo.html#terecht" id="praktisch#terecht">Je kan bij ons terecht voor..</a></li>
-								  <li><a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a></li>
-								  <li><a href="praktischeinfo.html#beluurtje" id="praktisch#beluurtje">Beluur</a></li>
-								   <li><a href="praktischeinfo.html#praktijkassistente" id="praktisch#praktijkassistente">Praktijkassistente</a></li>
-								  <li><a href="praktischeinfo.html#bancontact" id="praktisch#bancontact">Bancontact</a></li>
-								  <li><a href="praktischeinfo.html#griep" id="praktisch#griep">Griepvaccinaties</a></li>
-								  <li><a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a></li>
-								  <li><a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a></li>
-								  <li><a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a></li>
-								  <li><a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a></li>
-								  <li><a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a></li>
-								  <li><a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a></li>
-								  <li><a href="praktischeinfo.html#toestemming" id="praktisch#toestemming">Geïnformeerde toestemming</a></li> 				  										  								  								  
-								  <li><a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a></li>
-								  <li><a href="praktischeinfo.html#opleidingspraktijk" id="praktisch#opleidingspraktijk">Erkende opleidingspraktijk</a></li>
-								</ul>
-						</div>
-						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
-					</div>
-					
-					<div class="btn-group btn-group-lg btn-group-vertical visible-xs">
-						<a href="index.html" type="button" class="btn btn-default" id="menu_home">Welkom</a>
-						<a href="afspraak.html" type="button" class="btn btn-default" id="menu_afspraak">Afspraak</a>
-						<a href="covid.html" type="button" class="btn btn-default" id="menu_covid">Covid-19</a>
-						<a href="medewerkers.html" type="button" class="btn btn-default" id="menu_artsen">Wie is wie?</a>
-						<div class="btn-group btn-group-lg">
-							<a href="praktischeinfo.html" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="menu_praktisch">Praktische info <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-								  <li><a href="praktischeinfo.html#praktijkvisie" id="praktisch#praktijkvisie">Praktijkvisie</a></li>
-								  <li><a href="praktischeinfo.html#terecht" id="praktisch#terecht">Je kan bij ons terecht voor..</a></li>
-								  <li><a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a></li>
-								  <li><a href="praktischeinfo.html#beluurtje" id="praktisch#beluurtje">Beluur</a></li>
-								  <li><a href="praktischeinfo.html#griep" id="praktisch#griep">Griepvaccinaties</a></li>
-								  <li><a href="praktischeinfo.html#praktijkassistente" id="praktisch#praktijkassistente">Praktijkassistente</a></li>
-								  <li><a href="praktischeinfo.html#bancontact" id="praktisch#bancontact">Bancontact</a></li>
-								  <li><a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a></li>
-								  <li><a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a></li>	
-								  <li><a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a></li>
-								  <li><a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a></li>
-								  <li><a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a></li>
-								  <li><a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a></li>
-								  <li><a href="praktischeinfo.html#toestemming" id="praktisch#toestemming">Geïnformeerde toestemming</a></li>				  			  										  								  								  
-								  <li><a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a></li>
-								</ul>
-						</div>
-						<a href="locatie.html" type="button" class="btn btn-default" id="menu_locatie">Locatie</a>					
-					</div>
-				</div>
-			</nav>
-			<div class="row contentcontainer">
-				<div class="{{ grid_columns }} content">
-				
-					{{ content}}
-				</div>
-			</div>
-		</section>
-		<footer>
-			<div class="row">        
-				<div class="{{grid_columns}}">
-					Gemaakt door <a href="https://nelis.boucke.be/">Nelis Boucké</a>
-				</div> 
-			</div>
-		</footer>
-	</div>
-	
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <div id="wrapper">
+      <header>
+        <div class="row">
+          <div class="{{ grid_columns }} headerbar">
+            <img src="/images/header-bar.png" class="img-responsive" />
+            <h1>Huisartsenpraktijk De Vaart</h1>
+          </div>
+        </div>
+      </header>
+      <section>
+        <nav class="row">
+          <div class="{{ grid_columns }} menubar">
+            <div class="btn-group btn-group-lg btn-group-justified hidden-xs">
+              <a
+                href="index.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_home">Welkom</a>
+              <a
+                href="afspraak.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_afspraak">Afspraak</a>
+              <a
+                href="covid.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_covid">Vaccinatie</a>
+              <a
+                href="medewerkers.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_artsen">Wie is wie?</a>
+              <div class="btn-group btn-group-lg">
+                <a
+                  href="praktischeinfo.html"
+                  type="button"
+                  class="btn btn-default dropdown-toggle"
+                  data-toggle="dropdown"
+                  id="menu_praktisch">Praktische info
+                  <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="praktischeinfo.html#praktijkvisie" id="praktisch#praktijkvisie">Praktijkvisie</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#terecht" id="praktisch#terecht">Je kan bij ons terecht voor..</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#beluurtje" id="praktisch#beluurtje">Beluur</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#praktijkassistente" id="praktisch#praktijkassistente">Praktijkassistente</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#bancontact" id="praktisch#bancontact">Bancontact</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#griep" id="praktisch#griep">Griepvaccinaties</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#toestemming" id="praktisch#toestemming">Geïnformeerde toestemming</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#opleidingspraktijk" id="praktisch#opleidingspraktijk">Erkende opleidingspraktijk</a>
+                  </li>
+                </ul>
+              </div>
+              <a
+                href="locatie.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_locatie">Locatie</a>
+            </div>
+
+            <div class="btn-group btn-group-lg btn-group-vertical visible-xs">
+              <a
+                href="index.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_home">Welkom</a>
+              <a
+                href="afspraak.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_afspraak">Afspraak</a>
+              <a
+                href="covid.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_covid">Vaccinatie</a>
+              <a
+                href="medewerkers.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_artsen">Wie is wie?</a>
+              <div class="btn-group btn-group-lg">
+                <a
+                  href="praktischeinfo.html"
+                  type="button"
+                  class="btn btn-default dropdown-toggle"
+                  data-toggle="dropdown"
+                  id="menu_praktisch">Praktische info
+                  <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="praktischeinfo.html#praktijkvisie" id="praktisch#praktijkvisie">Praktijkvisie</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#terecht" id="praktisch#terecht">Je kan bij ons terecht voor..</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#raadplegingen" id="praktisch#raadplegingen">Raadplegingen</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#beluurtje" id="praktisch#beluurtje">Beluur</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#griep" id="praktisch#griep">Griepvaccinaties</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#praktijkassistente" id="praktisch#praktijkassistente">Praktijkassistente</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#bancontact" id="praktisch#bancontact">Bancontact</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#huisbezoeken" id="praktisch#huisbezoeken">Huisbezoeken</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#wacht" id="praktisch-wacht">Wachtdiensten</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#spoedgevallen" id="praktisch#spoedgevallen">Spoedgevallen</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#resultaten" id="praktisch#resultaten">Resultaten</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#voorschriften" id="praktisch#voorschriften">Voorschriften</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#gmd" id="praktisch#gmd">Globaal medisch dossier (GMD)</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#toestemming" id="praktisch#toestemming">Geïnformeerde toestemming</a>
+                  </li>
+                  <li>
+                    <a href="praktischeinfo.html#afgevaardigden" id="praktisch#afgevaardigden">Medisch afgevaardigden</a>
+                  </li>
+                </ul>
+              </div>
+              <a
+                href="locatie.html"
+                type="button"
+                class="btn btn-default"
+                id="menu_locatie">Locatie</a>
+            </div>
+          </div>
+        </nav>
+        <div class="row contentcontainer">
+          <div class="{{ grid_columns }} content">
+
+            {{ content }}
+          </div>
+        </div>
+      </section>
+      <footer>
+        <div class="row">
+          <div class="{{grid_columns}}">
+            Gemaakt door
+            <a href="https://nelis.boucke.be/">Nelis Boucké</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="javascripts/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="javascripts/bootstrap.min.js"></script>
-  	<script src="javascripts/respond.js"></script>
-  	 <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-	 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>
+    <script src="javascripts/respond.js"></script>
+    <script
+      async
+      defer
+      src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" /></noscript>
   </body>
- 
+
 </html>
