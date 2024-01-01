@@ -64,7 +64,7 @@ Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consu
 
 ### <a name="beluurtje">Beluur</a>
 
-“Elke weekdag tussen 12u en 13u kan u een arts spreken om korte medische vragen te stellen (resultaat bloedafnames,…). We plannen dit uurtje in om telefoongesprekken tijdens onze consultatie te beperken, wat voor iedereen aangenamer is. Mogen we vragen om zoveel mogelijk gebruik te maken van dit uur.
+Elke weekdag tussen 12u en 13u kan u een arts spreken om korte medische vragen te stellen (resultaat bloedafnames,…). We plannen dit uurtje in om telefoongesprekken tijdens onze consultatie te beperken, wat voor iedereen aangenamer is. Mogen we vragen om zoveel mogelijk gebruik te maken van dit uur.
 
 Elke arts heeft toegang tot de patiëntendossiers en door onze overlegmomenten zijn alle artsen op de hoogte van de belangrijkste medische problemen van onze patiënten.
 
@@ -72,36 +72,16 @@ Voor uitgebreide vragen maakt u best een afspraak zodat we ruim de tijd hebben.
 
 Bij dringende medische zaken zijn wij uiteraard ook buiten dit uur bereikbaar.
 
-### <a name="griep">GRIEPVACCINATIES 2021-2022</a>
-
-Het is ook dit jaar extra belangrijk om u te laten vaccineren tegen de seizoensgriep. U moet het vaccin zelf gaan afhalen bij de apotheker (en bewaren in de koelkast). Iedereen ouder dan 50 jaar kan vanaf 1 oktober het vaccin zonder voorschrift bij de apotheker ophalen. Bent u jonger dan 50 jaar en behoort u tot de risicogroepen (zie hieronder voor prioritaire groepen) dan kan u het voorschrift via mail aanvragen.
-
-Het ideale moment voor vaccinatie is tussen midden oktober en midden december. Dit jaar voorzien wij 2 vaccinatiemomenten zonder afspraak die zullen doorgaan in de turnzaal van school DE BEEMDEN, Stuivenbergbaan 135. Daar beschikken we over voldoende ruimte om alle covid-regels in acht te nemen.
-
-Vaccinatiemomenten in turnzaal De BEEMDEN:
-
-- zaterdag 06 november 2021 van 14u tot 16u
-- zaterdag 13 november 2021 van 14u tot 16u
-
-#### Prioritaire groepen
-
-- Groep 1:
-  - personen met een risico op complicaties: zwangere vrouwen, chronische zieken (vanaf de leeftijd van 6 maanden) zoals hartziekten, longziekten (astma en COPD), obesitas, een lever- of nierziekte of een spierziekte
-  - personen met een leeftijd > 65 jaar
-  - personen die verblijven in een instelling
-  - personen onder langdurige aspirinetherapie)
-- Groep 2: personen werkzaam in de gezondheidssector
-- Groep 3: personen die onder hetzelfde dak wonen als groep 1 of die zorg dragen voor kinderen jonger dan 6 maanden
-
-Ook vanaf 50 jaar is het zeker zinvol zijn om u te laten vaccineren.
 ### <a name="praktijkassistente">Praktijkassistente</a>
 
 Sinds 15 september 2018 is Marijke Henderickx onze nieuwe praktijkassistente. Ze is van maandag tem vrijdag aanwezig in onze praktijk en dit telkens in de voormiddag. Telefoonoproepen worden door haar beantwoord en ook afspraken kunnen bij haar gepland worden. Zij kan ten allen tijde een arts doorverbinden indien u om dringende redenen een arts dient te spreken. 
 
 Afhalen van documenten en brieven, bellen voor inlichtingen gebeuren ook best tijdens de openingsuren van het secretariaat.
+
 ### <a name="bancontact">Bancontact</a>
 
 In onze praktijk kan U met bancontact betalen. Om veiligheidsredenen geniet dit ook onze voorkeur. 
+
 ### <a name="huisbezoeken">Huisbezoeken</a>
 
 Personen die ernstig ziek, bedlegerig of minder mobiel zijn, kunnen een huisbezoek aanvragen. Hiervoor belt u best tussen 8 en 10u ’s morgens op het telefoonnummer  <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>. Enkel op die manier kunnen wij u garanderen dat we op dezelfde dag nog langs kunnen komen.
