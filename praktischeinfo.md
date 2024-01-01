@@ -48,13 +48,17 @@ Naast consultaties voor gezondheidsproblemen kan u terecht voor een heel aantal 
 
 Wij werken enkel op afspraak. Op die manier proberen we wachttijden minimaal te houden. 
 
-Maak bij voorkeur een afspraak via de <a href="afspraak.html">website </a>. U kan ook telefonisch een afspraak maken op het telefoonnummer <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>.
+Maak bij voorkeur een afspraak via de <a href="afspraak.html">website </a>. U kan ook telefonisch een afspraak maken op het telefoonnummer <a class="tel" href="tel:015/48.03.03">015/48.03.03</a>, liefst in de voormiddag.
 
 Gelieve tijdig aanwezig te zijn op de gemaakte afspraak. Wij proberen ons ook aan de geplande tijdstippen te houden. Urgenties zijn echter niet te voorzien. Wij willen ons daarom op voorhand verontschuldigen mocht u toch moeten wachten door een dringende oproep.
 
-Kan u niet (tijdig) aanwezig zijn, gelieve uw afspraak dan (telefonisch) te annuleren, zo geeft u iemand anders de kans om uw plaats in te nemen. We voorzien één afspraak per persoon. Als u extra tijd nodig denkt te hebben, bijvoorbeeld voor een ingreep of voor een gesprek, gelieve dit dan te vermelden zodat we meer tijd kunnen voorzien. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
+We voorzien één afspraak per persoon. Als u extra tijd nodig denkt te hebben, bijvoorbeeld voor een ingreep of voor een gesprek, gelieve dit dan te vermelden zodat we meer tijd kunnen voorzien. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
 
-Als alle afspraakmomenten volzet zijn en u toch graag dezelfde dag nog op consultatie komt, gelieve dan telefonisch contact op te nemen.
+Kan u niet (tijdig) aanwezig zijn, gelieve uw afspraak dan (telefonisch) te annuleren, zo geeft u iemand anders de kans om uw plaats in te nemen.
+
+Indien u niet of laattijdig uw afspraak annuleert (minder dan 1 uur voor de afspraak) behouden wij ons het recht om hiervoor een vergoeding aan te rekenen. Indien dit frequent gebeurt zal u geen afspraak meer kunnen maken in onze praktijk.
+
+Als alle afspraakmomenten volzet zijn en u denkt dat u dezelfde dag nog moet gezien worden komt, gelieve dan telefonisch contact op te nemen.
 
 Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consultatie.
 
