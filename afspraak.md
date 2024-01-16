@@ -13,11 +13,11 @@ Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afs
 - Meer info betreffende raadplegingen vindt u bij praktisch info.
 - U betaald bij voorkeur met BANCONTACT
 
-**Voor nieuwe patienten**
+**Voor nieuwe patiënten**
 
 Om goede kwaliteit van zorg te blijven bieden zien wij ons helaas genoodzaakt om een patiëntenstop in te voeren. We maken hierbij een uitzondering voor inwonende gezinsleden van huidige patiënten en voor nieuwe inwoners die nog geen huisarts in Mechelen hebben en wonen in de omliggende straten (aangeduid op onderstaande kaart). In dat geval neemt u best telefonisch contact op met de praktijk tussen 8u en 12u.
 
-<img src="/images/kaart-patienten.png" width="30%" align="right"/>
+<img src="/images/kaart-patienten.png" width="40%"/>
 
 In andere gevallen kan u contact opnemen met de huisartsenkring Dijle en Nete. Zij kunnen u informeren welke huisarts in welke regio nog patiënten aanneemt. 
 
