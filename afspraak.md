@@ -5,7 +5,7 @@
 
 Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afspraak te maken, aarzel dan niet om ons te bellen voor dringende vragen of problemen waarmee U graag sneller langskomt. Dan kunnen we samen kunnen bekijken wat er mogelijk is.
 
-**Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE AFSPRAKEN:**
+**Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE RICHTLIJNEN:**
 
 - U draagt een mondmasker indien u ziekte-symptomen heeft.
 - ONTSMET uw handen bij het binnenkomen EN bij het buitengaan.
@@ -13,7 +13,13 @@ Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afs
 - Meer info betreffende raadplegingen vindt u bij praktisch info.
 - U betaald bij voorkeur met BANCONTACT
 
-Wij rekenen op uw begrip en medewerking om dit alles vlot te laten verlopen.
+**Voor nieuwe patienten**
+
+Om goede kwaliteit van zorg te blijven bieden zien wij ons helaas genoodzaakt om een patiëntenstop in te voeren. We maken hierbij een uitzondering voor inwonende gezinsleden van huidige patiënten en voor nieuwe inwoners die nog geen huisarts in Mechelen hebben en wonen in de omliggende straten (aangeduid op onderstaande kaart). In dat geval neemt u best telefonisch contact op met de praktijk tussen 8u en 12u.
+
+<img src="/images/kaart-patienten.png" width="30%" align="right"/>
+
+In andere gevallen kan u contact opnemen met de huisartsenkring Dijle en Nete. Zij kunnen u informeren welke huisarts in welke regio nog patiënten aanneemt. 
 
 <br/>
 
