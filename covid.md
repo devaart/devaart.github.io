@@ -2,17 +2,6 @@
         layout: page
         title: Vaccinatie
 ---
-### Covidvaccinatie
-
-Voor de covidvaccinaties werken wij samen met enkele andere huisartsenpraktijken en apotheken. We organiseren vaccinatiemomenten waarop u kan inschrijven via onderstaande link: [https://forms.gle/y1ZNJwLAeuxaYfe26](https://forms.gle/y1ZNJwLAeuxaYfe26).
-
-Waar? Chiro Hombeek, zaal Hoje, Zemstseweg 43, 2811 Hombeek (er is parking aanwezig)
-
-Wanneer? Donderdagvoormiddag 28/09, 05/10 en 19/10 tussen 9u en 11u. Er is een beperkte capaciteit per tijdsslot. Indien alle tijdssloten volzet zijn, bekijken wij wanneer we extra vaccinatiemomenten kunnen inplannen.
-
-U hoeft het vaccin niet zelf mee te brengen. Inschrijven is wel verplicht en kan enkel indien u patiënt bent in één van de deelnemende praktijken.
-
-Kom op het afgesproken tijdstip dat u kiest bij uw online inschrijving.
 
 ### Griepvaccinaties 2023-2024
 
