@@ -20,6 +20,11 @@ Het uitstrijkje spoort vooral de voorlopers van baarmoederhalskanker op. Een een
 Een uitstrijkje wordt best elke 3 jaar afgenomen (indien uw laatste uitstrijkje afwijkend was, kan dit sneller zijn). Dit kan bij ons of bij uw gynaecoloog.
 Meer info vind je op de [website rond baarmoederhalskanker](https://baarmoederhalskanker.bevolkingsonderzoek.be/nl).
 
+### Tijdelijke versterking team met dr. Stephanie Andries
+
+Een aantal jaar geleden had ik het genoegen om tijdelijk in deze fijne praktijk te mogen werken.
+Vanaf maart 2024 kom ik het team van Huisartsenpraktijk De Vaart opnieuw tijdelijk versterken.
+
 ### Praktijkverpleegkundige
 
 Marijke, onze praktijkassistente, is al enkele jaren werkzaam in onze praktijk. Aangezien zij vroedvrouw/verpleegkundige van opleiding is zal zij vanaf heden ook verpleegkundige taken op zich nemen.
