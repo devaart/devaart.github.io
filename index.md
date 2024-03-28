@@ -11,16 +11,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 Informatie over covid- en griepvaccinatie vindt U hier: [Vaccinatie](covid.html).
 
-### Opsporing baarmoederhalskanker
-
-We merken dat veel vrouwen zich niet op regelmatige basis laten screenen voor baarmoederhalskanker.
-
-Het uitstrijkje spoort vooral de voorlopers van baarmoederhalskanker op. Een eenvoudige behandeling is op dat moment voldoende om kanker te voorkomen. Vroegtijdige opsporing kan 8 op de 10 overlijdens door baarmoederhalskanker voorkomen.
-
-Een uitstrijkje wordt best elke 3 jaar afgenomen (indien uw laatste uitstrijkje afwijkend was, kan dit sneller zijn). Dit kan bij ons of bij uw gynaecoloog.
-Meer info vind je op de [website rond baarmoederhalskanker](https://baarmoederhalskanker.bevolkingsonderzoek.be/nl).
-
-### Tijdelijke versterking team met dr. Stephanie Andries
+### Tijdelijke versterking team met dr. Stefanie Andries
 
 Een aantal jaar geleden had ik het genoegen om tijdelijk in deze fijne praktijk te mogen werken.
 Vanaf maart 2024 kom ik het team van Huisartsenpraktijk De Vaart opnieuw tijdelijk versterken.
