@@ -31,7 +31,7 @@ Bij ons in de praktijk (Uitsluitend voor patiënten!)
 
 *Wanneer?*
 
-Vanaf 23 september. Inschrijven binnenkort via link.
+Vanaf 23 september. [Inschrijven deze via link.](https://forms.gle/Nz4CjoK7tKWYsEMK7)
 
 *Kostprijs?*
 
