@@ -31,7 +31,7 @@ Bij ons in de praktijk (Uitsluitend voor patiënten!)
 
 *Wanneer?*
 
-Vanaf 23 september. [Inschrijven via deze link.](https://forms.gle/Nz4CjoK7tKWYsEMK7)
+De inschrijvingen zijn afgelopen. Indien u toch nog een vaccin wil mag u in de voormiddag contact opnemen met onze praktijkassistente om een afspraak in te plannen.
 
 *Kostprijs?*
 
