@@ -11,7 +11,7 @@ Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afs
 - ONTSMET uw handen bij het binnenkomen EN bij het buitengaan.
 - We proberen ons strikt te houden aan de voorziene tijd. Indien u inschat dat er meer tijd nodig zal zijn dan 15min (bvb. bij meerdere problemen of bij een gesprek) gelieve dit dan te vermelden bij het maken van een afspraak. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
 - Meer info betreffende raadplegingen vindt u bij praktisch info.
-- U betaald bij voorkeur met BANCONTACT
+- U betaalt bij voorkeur met BANCONTACT
 
 **Voor nieuwe patiënten**
 
