@@ -9,7 +9,7 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 ### Haio Dr. Jolien De Braekeleer
 
-Vanaf 1 april verwelkomen wij Dr. Jolien De Braekeleer als haio in onze praktijk. Zij zal het laatste 1,5 jaar van haar opleiding tot huisarts in onze praktijk voltooien. Wij nemen afscheid van Dr. Arnout Van Roosbroeck die zijn verdere opleiding elders zal voortzetten. 
+Vanaf 1 april 2024 verwelkomen wij Dr. Jolien De Braekeleer als haio in onze praktijk. Zij zal het laatste 1,5 jaar van haar opleiding tot huisarts in onze praktijk voltooien. Wij nemen afscheid van Dr. Arnout Van Roosbroeck die zijn verdere opleiding elders zal voortzetten. 
 
 ### Praktijkverpleegkundige
 
