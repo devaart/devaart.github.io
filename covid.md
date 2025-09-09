@@ -3,6 +3,28 @@
         title: Vaccinatie
 ---
 
-### Covid- en griepvaccinaties 2024-2025
+### Covid- en griepvaccinaties 2025-2026
 
-De vaccinatie periode voor de winter 2024-2025 is afgelopen. Kom in het najaar even terug kijken op deze pagina voor meer informatie over de volgende vaccinatie periode.
+De griep- en COVID-vaccinaties worden dit jaar op dezelfde manier georganiseerd als vorig jaar.
+
+COVID-vaccinatie:
+
+- Data: 6, 13, 20 en 27 oktober
+- Inschrijving: via [dit formulier](https://docs.google.com/forms/d/e/1FAIpQLScJ4-4CaC1txMIoGF-q_1CduU43f1Xgz0L5AOalzQunfQZOLg/viewform?usp=header)
+- Lukt het niet online? Bel ons in de voormiddag, dan schrijven wij je in.
+- Belangrijk: wij voorzien het vaccin in de praktijk; je hoeft dus niets aan te kopen.
+
+Griepvaccinatie:
+
+- Data: vanaf maandag 3 november elke weekdag tussen 10.00 en 11.00 uur
+- Dagelijks toediening door onze praktijkverpleegkundige, Marijke. Een afspraak is niet nodig. 
+- Belangrijk: breng zelf je vaccin mee; dit kan zonder voorschrift worden aangekocht bij de apotheek.
+
+Extra informatie over terugbetaling van hooggedoseerde (versterkte) griepvaccins:
+
+- Het hooggedoseerde vaccin wordt enkel terugbetaald op voorschrift van de arts:
+- voor personen vanaf 75 jaar
+- voor personen vanaf 65 jaar in residentiële zorg
+- Op dit moment kan het griepvaccin nog niet door ons worden voorgeschreven.
+
+Tip: Draag gemakkelijke kledij, want beide vaccins worden in de bovenarm toegediend.
