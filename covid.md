@@ -17,14 +17,7 @@ COVID-vaccinatie:
 Griepvaccinatie:
 
 - Data: vanaf maandag 3 november elke weekdag tussen 10.00 en 11.00 uur
-- Dagelijks toediening door onze praktijkverpleegkundige, Marijke. Een afspraak is niet nodig. 
+- Dagelijks toediening door onze praktijkverpleegkundige, Marijke. Een afspraak is niet nodig.
 - Belangrijk: breng zelf je vaccin mee; dit kan zonder voorschrift worden aangekocht bij de apotheek.
-
-Extra informatie over terugbetaling van hooggedoseerde (versterkte) griepvaccins:
-
-- Het hooggedoseerde vaccin wordt enkel terugbetaald op voorschrift van de arts:
-- voor personen vanaf 75 jaar
-- voor personen vanaf 65 jaar in residentiële zorg
-- Op dit moment kan het griepvaccin nog niet door ons worden voorgeschreven.
 
 Tip: Draag gemakkelijke kledij, want beide vaccins worden in de bovenarm toegediend.
