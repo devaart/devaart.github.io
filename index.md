@@ -7,9 +7,11 @@ Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
 
-### Haio Dr. Jolien De Braekeleer
+### Nieuwe HAIO in onze praktijk
 
-Vanaf 1 april 2024 verwelkomen wij Dr. Jolien De Braekeleer als haio in onze praktijk. Zij zal het laatste 1,5 jaar van haar opleiding tot huisarts in onze praktijk voltooien. Wij nemen afscheid van Dr. Arnout Van Roosbroeck die zijn verdere opleiding elders zal voortzetten. 
+Vanaf 1 oktober verwelkomen wij Dr. Fran Capitaine als huisarts-in-opleiding (HAIO). Zij zal een jaar lang in onze praktijk meewerken.
+
+De opleiding van Dr. Jolien De Braekeleer loopt af op 22 september. Wij nemen geen afscheid want vanaf januari 2026 zal zij ons team vervoegen als vaste arts.
 
 ### Praktijkverpleegkundige
 
