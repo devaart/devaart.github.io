@@ -3,39 +3,9 @@
         title: Groepspraktijk Mechelen Zuid - Dr. Sofie Decamps en Dr. Sofie Van Tongelen
 ---
 
-Welkom op de website van huisartsenpraktijk De Vaart. U kan via deze website ook een <a href="https://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">afspraak maken</a>. 
+Welkom bij huisartsenpraktijk De Vaart. Maak <a href="https://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank">hier</a> eenvoudig uw afspraak.
 
 <img src="/images/Logo_RGB.png" width="30%" align="right"/>
-
-### Nieuwe HAIO in onze praktijk
-
-Vanaf 1 oktober verwelkomen wij Dr. Fran Capitaine als huisarts-in-opleiding (HAIO). Zij zal een jaar lang in onze praktijk meewerken.
-
-De opleiding van Dr. Jolien De Braekeleer loopt af op 22 september. Wij nemen geen afscheid want vanaf januari 2026 zal zij ons team vervoegen als vaste arts.
-
-### Praktijkverpleegkundige
-
-Marijke, onze praktijkassistente, is al enkele jaren werkzaam in onze praktijk. Aangezien zij vroedvrouw/verpleegkundige van opleiding is zal zij vanaf heden ook verpleegkundige taken op zich nemen.
-
-Elke maandagnamiddag tussen 13u en 15u kan je bij haar terecht voor bloednames, vaccinaties, wondzorg,…
-
-Woensdagochtend kan je tussen 7u30 en 8u nuchtere bloednames laten afnemen.
-
-Afspraken hiervoor kunnen telefonisch gemaakt worden.
-
-### Voorschriften
-
-Vanaf heden zullen er geen voorschriften meer voorgeschreven worden na mail of telefonisch contact. Ook niet voor chronische medicatie.
-
-Gelieve dus steeds vóór elke consultatie goed na te kijken welke medicatie u nodig heeft in de nabije toekomst.
-
-Indien u toch medicatie ontbreekt, vragen we om op consultatie te komen.
-
-### Psychologen in onze praktijk
-
-Sinds juni 2023 werkt Elisabeth Timmermans als psychologe in onze praktijk. Dr. Elisabeth Timmermans is klinisch psycholoog en auteur van het boek Liefde in tijden van Tinder. Ze behaalde in 2017 haar doctoraat in de sociale wetenschappen aan de KU Leuven en werkte daarna tot 2020 als postdoctoraal onderzoeker en universitair docent aan de Erasmus Universiteit Rotterdam. Ze publiceerde al meer dan 20 academische artikels over online daten en de impact van de media op seks en relaties. De passie voor haar onderzoek zorgde ervoor dat ze terug achter de schoolbanken kroop en in juli 2022 behaalde ze met grote onderscheiding haar master in de klinische psychologie. In september 2022 startte ze haar vierjarige opleiding tot cliëntgericht psychotherapeut. Naast haar werk als klinisch psycholoog in Elim (residentieel centrum voor psychotherapie) helpt ze in de praktijk mensen in hun zoektocht naar liefdevolle relaties met zichzelf en anderen. Daarnaast heeft ze ook ervaring met het begeleiden van mensen die worstelen met moeilijkheden als depressie, angst, onzekerheid en trauma.
- 
-Voor meer informatie, vragen of aanmeldingen kan je Elisabeth bereiken op [timmermanselisabeth@gmail.com](timmermanselisabeth@gmail.com). Meer informatie vind je ook op haar website [http://www.liefdeintijdenvantinder.be](http://www.liefdeintijdenvantinder.be).
 
 ### Praktijkinfo
 
@@ -51,3 +21,31 @@ Telefoon: <a href="tel:015/48.03.03">015/48.03.03</a>
 <p>
 Email: <span class="doeeensraar">eb.traavednestrasiuh@ofni</span>
 </p>
+
+<p>
+Momenteel geldt in onze praktijk een patiëntenstop. Eventuele uitzonderingen worden toegelicht onder ‘Afspraak’.
+</p>
+
+### Huisarts in opleiding (HAIO)
+
+Van 1 oktober 2025 tot en met 30 september 2026 verwelkomen wij Dr. Fran Capitaine in ons team.
+
+Dr. Capitaine is reeds afgestudeerd als arts en volgt momenteel de vervolgopleiding tot huisarts in onze praktijk. Zij werkt zelfstandig, maar steeds in nauw overleg met de vaste huisartsen.
+
+### Zwangerschapsverlof en vervanging
+
+Van 1 april tot en met 31 juli zal Dr. Ans Vangrunderbeek afwezig zijn wegens zwangerschapsverlof.
+
+Om de continuïteit van onze zorg te waarborgen, verwelkomen wij met veel plezier vanaf 1 maart Dr. Laura Luykx als vervangend huisarts in onze praktijk. Dr. Luykx zal tijdens deze periode mee instaan voor de medische zorg en consultaties, en werkt nauw samen met het vaste team om u dezelfde vertrouwde en kwalitatieve zorg te bieden.
+
+### Praktijkverpleegkundige
+
+Marijke, onze praktijkassistente, is al enkele jaren een vaste waarde binnen onze praktijk. Aangezien zij is opgeleid als vroedvrouw/verpleegkundige, neemt zij naast haar taken als praktijkassistente ook verpleegkundige taken op zich.
+
+### Voorschriften
+
+Vanaf heden worden geen voorschriften meer verstrekt via e-mail of telefonisch contact, ook niet voor chronische medicatie.
+
+Wij vragen u daarom om voor elke consultatie na te kijken welke medicatie u in de nabije toekomst nodig heeft.
+
+Indien u toch medicatie tekortkomt, verzoeken wij u een afspraak te maken voor een consultatie, zodat we dit samen kunnen bespreken.
