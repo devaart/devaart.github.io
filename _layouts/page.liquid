@@ -248,6 +248,22 @@
       defer
       src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" /></noscript>
+
+    {% include huisregels.html %}
+    <script>
+      // Toon de huisregels-popup bij het laden van de pagina.
+      // Eén keer per browsersessie: zet HUISREGELS_ELKE_PAGINA op true om hem op elke pagina te tonen.
+      (function () {
+        var HUISREGELS_ELKE_PAGINA = false;
+        var key = 'huisregelsGetoond';
+        var alGetoond = false;
+        try { alGetoond = window.sessionStorage.getItem(key) === '1'; } catch (e) {}
+        if (HUISREGELS_ELKE_PAGINA || !alGetoond) {
+          $('#huisregels').modal('show');
+          try { window.sessionStorage.setItem(key, '1'); } catch (e) {}
+        }
+      })();
+    </script>
   </body>
 
 </html>

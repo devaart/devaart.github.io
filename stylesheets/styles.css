@@ -138,3 +138,54 @@ footer {
 
 
 
+/* Huisregels popup ---------------------- */
+
+.modal-content.huisregels {
+	border-radius: 0;
+	color: #333;
+}
+
+.huisregels .modal-header {
+	text-align: center;
+	border-bottom: none;
+	padding-bottom: 0;
+}
+
+.huisregels .modal-title {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin: 0.5em 0 0.3em 0;
+}
+
+.huisregels .huisregels-subtitel {
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.huisregels .modal-body {
+	padding-bottom: 0;
+}
+
+.huisregels .modal-body p {
+	line-height: 1.6;
+	margin-bottom: 1.2em;
+}
+
+.huisregels .modal-footer {
+	border-top: none;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 5px;
+}
+
+.btn.huisregels-sluiten {
+	color: #ffffff;
+	background-color: #1B6666;
+	border-radius: 0;
+	font-size: 16px;
+}
+
+.btn.huisregels-sluiten:hover, .btn.huisregels-sluiten:active, .btn.huisregels-sluiten:focus {
+	color: #ffffff;
+	background-color: #008cba;
+}
