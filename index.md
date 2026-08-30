@@ -59,4 +59,4 @@ Alle informatie betreffende RSV-, covid- en griepvaccinaties worden toegelicht o
 
 ### Huisartsenwachtpost
 
-Wanneer u een huisarts denkt nodig te hebben na 19u, in het weekend of op feestdagen belt u het algemene nummer 1733. De Huisartsenwachtdienst is er alleen voor dringende medische hulp.
+Wanneer u een huisarts denkt nodig te hebben na 19u, in het weekend of op feestdagen belt u het algemene nummer <a href="tel:1733">1733</a>. De Huisartsenwachtdienst is er alleen voor dringende medische hulp.

@@ -3,24 +3,32 @@
         title: Maak een afspraak
 ---
 
-Indien U in de online agenda niet onmiddellijk een vrije plaats vindt om een afspraak te maken, aarzel dan niet om ons te bellen voor dringende vragen of problemen waarmee U graag sneller langskomt. Dan kunnen we samen kunnen bekijken wat er mogelijk is.
+<a href="https://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="btn btn-default bigbutton" id="menu_afspraak">Maak hier online een afspraak</a>
 
-**Voordat u een afspraak maakt, LEES eerst onderstaande BELANGRIJKE RICHTLIJNEN:**
+### Elektronische afspraak
 
-- U draagt een mondmasker indien u ziekte-symptomen heeft.
-- ONTSMET uw handen bij het binnenkomen EN bij het buitengaan.
-- We proberen ons strikt te houden aan de voorziene tijd. Indien u inschat dat er meer tijd nodig zal zijn dan 15min (bvb. bij meerdere problemen of bij een gesprek) gelieve dit dan te vermelden bij het maken van een afspraak. Indien u met 2 personen komt, gelieve dan ook 2 afspraken te maken.
-- Meer info betreffende raadplegingen vindt u bij praktisch info.
-- U betaalt bij voorkeur met BANCONTACT
+Vindt u in de online agenda niet meteen een vrij moment? Aarzel dan niet om ons te bellen bij dringende vragen of problemen waarvoor u liever sneller terecht kunt. Dan bekijken we samen wat er mogelijk is.
 
-**Voor nieuwe patiënten**
+### Patiëntenstop
 
-Om goede kwaliteit van zorg te blijven bieden zien wij ons helaas genoodzaakt om een patiëntenstop in te voeren. We maken hierbij een uitzondering voor inwonende gezinsleden van huidige patiënten en voor nieuwe inwoners die nog geen huisarts in Mechelen hebben en wonen in de omliggende straten (aangeduid op onderstaande kaart). In dat geval neemt u best telefonisch contact op met de praktijk tussen 8u en 12u.
+Om een goede kwaliteit van zorg te kunnen blijven bieden, zien wij ons helaas genoodzaakt een patiëntenstop in te voeren.
+
+We maken hierbij een uitzondering voor inwonende gezinsleden van onze huidige patiënten, en voor nieuwe inwoners die nog geen huisarts hebben in Mechelen en wonen in de omliggende straten (aangeduid op onderstaande kaart).
 
 <img src="/images/kaart-patienten.jpg" width="40%"/>
 
-In andere gevallen kan u contact opnemen met de huisartsenkring Dijle en Nete. Zij kunnen u informeren welke huisarts in welke regio nog patiënten aanneemt. 
+Hiermee volgen wij het spreidingsplan van de Mechelse huisartsen, waarbij elke praktijk verantwoordelijk is voor een bepaald werkingsgebied.
 
-<br/>
+Valt u buiten ons werkingsgebied en bent u op zoek naar een huisarts in Mechelen? Dan kan u alle werkdagen telefonisch contact opnemen met de Huisartsenkring via <a href="tel:015892097">015 89 20 97</a>. Zij kunnen u, op basis van uw woonadres, informeren welke huisartsenpraktijken in uw buurt u als patiënt kunnen aannemen.
 
-<a href="https://www.introlution.be/clientwebsites/doctorwebsite_2/logincustom.aspx?domain=huisartsendevaart.be" target="_blank" type="button" class="btn btn-default bigbutton" id="menu_afspraak">Maak hier online een afspraak</a>
+### Niet nakomen van afspraken
+
+Bij Huisartsenpraktijk De Vaart streven we ernaar om iedereen tijdig een afspraak aan te bieden. Daarom vragen we je om een afspraak die je niet kunt nakomen minstens 4 uur van tevoren te annuleren.
+
+Bij een laattijdige annulering (minder dan 4 uur vooraf) of wanneer je niet op je afspraak verschijnt zonder ons te verwittigen, geldt de volgende regeling:
+
+- **1e keer:** herinneringsmail.
+- **2e keer:** herinneringsmail en geen toegang meer tot de online agenda. Nieuwe afspraken kunnen vanaf dan enkel telefonisch worden gemaakt.
+- **3e keer:** administratieve kosten van € 35 (zonder tussenkomst van de mutualiteit). Een nieuwe afspraak kan pas worden ingepland na betaling.
+
+Bedankt voor je begrip en medewerking. Zo kunnen we onze beschikbare afspraken optimaal benutten en de wachttijden voor alle patiënten beperken.
