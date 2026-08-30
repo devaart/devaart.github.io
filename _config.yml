@@ -1,4 +1,4 @@
-exclude: [LICENSE, params.json, README.md]
+exclude: [LICENSE, params.json, README.md, Gemfile, Gemfile.lock, vendor, .bundle]
 
 description: "Huisartsenpraktijk De Vaart, een groepspraktijk in Mechelen Zuid aan Stuivenbergvaart met dr. Sofie Decamps en dr. Sofie Van Tongelen. Tel: 015/480303."
 keywords: "huisarts mechelen, huisartspraktijk mechelen, 
