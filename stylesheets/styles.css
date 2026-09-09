@@ -189,3 +189,9 @@ footer {
 	color: #ffffff;
 	background-color: #008cba;
 }
+
+/* Vaccinatie-tabellen (covid.md) */
+.vaccin thead th { text-align: center; }
+.vaccin tbody th { width: 9em; font-weight: normal; vertical-align: top; }
+.vaccin ul { margin-bottom: 0; padding-left: 1.2em; }
+.vaccin ul ul { padding-left: 1.5em; }
