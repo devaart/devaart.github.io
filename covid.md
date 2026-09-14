@@ -24,7 +24,7 @@ Elk najaar circuleren er opnieuw meer virussen en bacteriën die luchtweginfecti
     <tr><th>Timing</th><td>Vanaf 5 oktober</td></tr>
     <tr><th>Bescherming</th><td>1 seizoen (jaar)</td></tr>
     <tr><th>Kostprijs</th><td>Gratis</td></tr>
-    <tr><th>Praktisch</th><td>Geen voorschrift nodig<br>Toediening dagelijks tussen 10u en 11u zonder afspraak (*)</td></tr>
+    <tr><th>Praktisch</th><td>Geen voorschrift nodig<br>Het COVID-vaccin hebben wij voorradig en moet je dus niet in de apotheek aankopen<br>Toediening dagelijks tussen 10u en 11u zonder afspraak tot eind november(*)</td></tr>
   </tbody>
 </table>
 
@@ -45,7 +45,7 @@ Elk najaar circuleren er opnieuw meer virussen en bacteriën die luchtweginfecti
     <tr><th>Timing</th><td>Vanaf 19 oktober</td></tr>
     <tr><th>Bescherming</th><td>1 seizoen (jaar)</td></tr>
     <tr><th>Kostprijs</th><td>Sterk variërend afhankelijk van type vaccin, risicogroep en eventuele verhoogde tegemoetkoming</td></tr>
-    <tr><th>Praktisch</th><td>Geen voorschrift nodig<br>Toediening dagelijks tussen 10u en 11u zonder afspraak (*)</td></tr>
+    <tr><th>Praktisch</th><td>Geen voorschrift nodig<br>Zelf af te halen bij de apotheek en mee te brengen<br>Toediening dagelijks tussen 10u en 11u zonder afspraak (*)</td></tr>
   </tbody>
 </table>
 
