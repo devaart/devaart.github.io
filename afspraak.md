@@ -19,8 +19,6 @@ We maken hierbij een uitzondering voor inwonende gezinsleden van onze huidige pa
 
 Hiermee volgen wij het spreidingsplan van de Mechelse huisartsen, waarbij elke praktijk verantwoordelijk is voor een bepaald werkingsgebied.
 
-Valt u buiten ons werkingsgebied en bent u op zoek naar een huisarts in Mechelen? Dan kan u alle werkdagen telefonisch contact opnemen met de Huisartsenkring via <a href="tel:015892097">015 89 20 97</a>. Zij kunnen u, op basis van uw woonadres, informeren welke huisartsenpraktijken in uw buurt u als patiënt kunnen aannemen.
-
 ### Niet nakomen van afspraken
 
 Bij Huisartsenpraktijk De Vaart streven we ernaar om iedereen tijdig een afspraak aan te bieden. Daarom vragen we je om een afspraak die je niet kunt nakomen minstens 4 uur van tevoren te annuleren.
