@@ -62,9 +62,9 @@ Als alle afspraakmomenten volzet zijn en u denkt dat u dezelfde dag nog moet gez
 
 Neem steeds uw identiteitskaart en een klevertje van de mutualiteit mee op consultatie.
 
-### <a name="beluurtje">Beluur</a>
+### <a name="beluurtje">Belmoment</a>
 
-Elke weekdag tussen 12u en 13u kan u een arts spreken om korte medische vragen te stellen (resultaat bloedafnames,…). We plannen dit uurtje in om telefoongesprekken tijdens onze consultatie te beperken, wat voor iedereen aangenamer is. Mogen we vragen om zoveel mogelijk gebruik te maken van dit uur.
+Elke weekdag tussen 12u en 12u30 kan u een arts spreken om korte medische vragen te stellen (resultaat bloedafnames,…). We plannen dit moment in om telefoongesprekken tijdens onze consultatie te beperken, wat voor iedereen aangenamer is. Mogen we vragen om zoveel mogelijk gebruik te maken van dit moment.
 
 Elke arts heeft toegang tot de patiëntendossiers en door onze overlegmomenten zijn alle artsen op de hoogte van de belangrijkste medische problemen van onze patiënten.
 
@@ -107,7 +107,7 @@ Bij levensbedreigende situaties waarbij u niet onmiddellijk de praktijk kan bere
 
 ### <a name="resultaten">Resultaten en vragen</a>
 
-Voor resultaten en kleine medische vragen voorzien wij dagelijks een beluurtje tussen 12u en 13u. Gelieve hier zoveel mogelijk rekening mee te houden. Telefonische oproepen tijdens de raadpleging zijn storend voor zowel artsen als patiënten.
+Voor resultaten en kleine medische vragen voorzien wij dagelijks een belmoment tussen 12u en 12u30. Gelieve hier zoveel mogelijk rekening mee te houden. Telefonische oproepen tijdens de raadpleging zijn storend voor zowel artsen als patiënten.
 
 ### <a name="voorschriften">Attesten en voorschriften</a>
 
